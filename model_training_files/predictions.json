@@ -1,0 +1,6536 @@
+[
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000001_RGHS_jpg.rf.2d56ce68ff41d2610cfe856058ce7439",
+        "category_id": 1,
+        "bbox": [
+            264.75,
+            20.5,
+            85.0,
+            162.25
+        ],
+        "score": 0.85986
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000030_RGHS_jpg.rf.477b73ef5e42e7fb4c1c71f9502a531b",
+        "category_id": 0,
+        "bbox": [
+            83.75,
+            106.062,
+            135.75,
+            163.938
+        ],
+        "score": 0.93848
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000030_RGHS_jpg.rf.477b73ef5e42e7fb4c1c71f9502a531b",
+        "category_id": 4,
+        "bbox": [
+            416.5,
+            224.125,
+            45.0,
+            72.875
+        ],
+        "score": 0.00137
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000029_RGHS_jpg.rf.cd2f45e03a8f7654e0d0f7e9154f53e7",
+        "category_id": 0,
+        "bbox": [
+            87.5,
+            105.5,
+            136.75,
+            162.25
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000028_RGHS_jpg.rf.1c245f7ef1ae9ac719e4923ea39489eb",
+        "category_id": 0,
+        "bbox": [
+            90.562,
+            99.75,
+            141.938,
+            168.0
+        ],
+        "score": 0.9292
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000026_RGHS_jpg.rf.eb74a0a072388f9a2d8c3c0519440d28",
+        "category_id": 0,
+        "bbox": [
+            99.5,
+            95.25,
+            143.0,
+            171.25
+        ],
+        "score": 0.9375
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000023_RGHS_jpg.rf.508e19b26590fe84b52a14aa0eecf2d9",
+        "category_id": 0,
+        "bbox": [
+            114.0,
+            80.5,
+            144.5,
+            179.5
+        ],
+        "score": 0.9292
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000020_RGHS_jpg.rf.8794f59231d68cf261d0a0f7ddc09d06",
+        "category_id": 0,
+        "bbox": [
+            134.5,
+            66.75,
+            138.5,
+            181.75
+        ],
+        "score": 0.92773
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000016_RGHS_jpg.rf.e2177d7818ed78616b5b0214f96f14c6",
+        "category_id": 0,
+        "bbox": [
+            164.5,
+            43.062,
+            134.75,
+            183.938
+        ],
+        "score": 0.93213
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000007_RGHS_jpg.rf.2cc6728b8edb22d5ccbfd6f46a79a91d",
+        "category_id": 0,
+        "bbox": [
+            227.75,
+            0.0,
+            148.5,
+            178.625
+        ],
+        "score": 0.9375
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000002_RGHS_jpg.rf.1764a9537efea615a1c691e96a897479",
+        "category_id": 0,
+        "bbox": [
+            266.0,
+            0.0,
+            167.0,
+            149.875
+        ],
+        "score": 0.94727
+    },
+    {
+        "image_id": "9870_Gerres_f000185_RGHS_jpg.rf.d748a5c1ce30999299cb30eb97a7964f",
+        "category_id": 4,
+        "bbox": [
+            389.0,
+            219.0,
+            71.0,
+            66.5
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "9870_Gerres_f000185_RGHS_jpg.rf.d748a5c1ce30999299cb30eb97a7964f",
+        "category_id": 4,
+        "bbox": [
+            1.312,
+            202.75,
+            5.875,
+            37.25
+        ],
+        "score": 0.00138
+    },
+    {
+        "image_id": "9870_Gerres_f000185_RGHS_jpg.rf.d748a5c1ce30999299cb30eb97a7964f",
+        "category_id": 4,
+        "bbox": [
+            47.375,
+            256.0,
+            21.625,
+            28.5
+        ],
+        "score": 0.0011
+    },
+    {
+        "image_id": "9870_Gerres_f000184_RGHS_jpg.rf.bb88c9c4131728f6ef3b7367b4ef4fe3",
+        "category_id": 4,
+        "bbox": [
+            389.0,
+            219.25,
+            71.0,
+            65.5
+        ],
+        "score": 0.91357
+    },
+    {
+        "image_id": "9870_Gerres_f000184_RGHS_jpg.rf.bb88c9c4131728f6ef3b7367b4ef4fe3",
+        "category_id": 4,
+        "bbox": [
+            1.125,
+            199.5,
+            6.875,
+            39.5
+        ],
+        "score": 0.00223
+    },
+    {
+        "image_id": "9870_Gerres_f000184_RGHS_jpg.rf.bb88c9c4131728f6ef3b7367b4ef4fe3",
+        "category_id": 1,
+        "bbox": [
+            132.0,
+            65.75,
+            61.0,
+            87.0
+        ],
+        "score": 0.00165
+    },
+    {
+        "image_id": "9870_Gerres_f000183_RGHS_jpg.rf.303daef6abe2643bc9b70ae736490a05",
+        "category_id": 4,
+        "bbox": [
+            389.0,
+            218.75,
+            71.0,
+            64.5
+        ],
+        "score": 0.91748
+    },
+    {
+        "image_id": "9870_Gerres_f000183_RGHS_jpg.rf.303daef6abe2643bc9b70ae736490a05",
+        "category_id": 4,
+        "bbox": [
+            48.0,
+            256.0,
+            25.5,
+            26.0
+        ],
+        "score": 0.07343
+    },
+    {
+        "image_id": "9870_Gerres_f000180_RGHS_jpg.rf.af4a147cc4c7945020bd774af273541a",
+        "category_id": 4,
+        "bbox": [
+            388.5,
+            219.75,
+            71.0,
+            62.0
+        ],
+        "score": 0.91943
+    },
+    {
+        "image_id": "9870_Gerres_f000170_RGHS_jpg.rf.fd8cdbdc1750443330b0803f73fa463b",
+        "category_id": 4,
+        "bbox": [
+            389.25,
+            219.875,
+            70.5,
+            61.125
+        ],
+        "score": 0.91846
+    },
+    {
+        "image_id": "9870_Gerres_f000163_RGHS_jpg.rf.22ba35a9645563d57f023a879e8e7901",
+        "category_id": 4,
+        "bbox": [
+            390.0,
+            220.375,
+            69.5,
+            58.125
+        ],
+        "score": 0.91357
+    },
+    {
+        "image_id": "9870_Gerres_f000139_RGHS_jpg.rf.1f75aed8135fe824f8d85fbcb7afadd2",
+        "category_id": 4,
+        "bbox": [
+            387.0,
+            221.5,
+            72.5,
+            55.0
+        ],
+        "score": 0.90967
+    },
+    {
+        "image_id": "9870_Gerres_f000137_RGHS_jpg.rf.1bdb937cbb86e6ef1f0f11543f8b57ab",
+        "category_id": 4,
+        "bbox": [
+            386.75,
+            222.0,
+            72.5,
+            55.0
+        ],
+        "score": 0.90723
+    },
+    {
+        "image_id": "9870_Gerres_f000137_RGHS_jpg.rf.1bdb937cbb86e6ef1f0f11543f8b57ab",
+        "category_id": 4,
+        "bbox": [
+            131.5,
+            252.25,
+            20.0,
+            19.5
+        ],
+        "score": 0.01622
+    },
+    {
+        "image_id": "9870_Gerres_f000136_RGHS_jpg.rf.22eb6510b6759d6aef4e310b6ba0a33d",
+        "category_id": 4,
+        "bbox": [
+            387.5,
+            222.5,
+            72.0,
+            54.5
+        ],
+        "score": 0.90967
+    },
+    {
+        "image_id": "9870_Gerres_f000135_RGHS_jpg.rf.dc879a62b85ce23246a0f03a8ad486e7",
+        "category_id": 4,
+        "bbox": [
+            388.5,
+            222.5,
+            71.0,
+            54.5
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "9892_Acanthopagrus_palmaris_2_f000036_RGHS_jpg.rf.c8983f3125e1730cc12f8e13b15e15e9",
+        "category_id": 0,
+        "bbox": [
+            80.75,
+            104.812,
+            119.0,
+            164.938
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9892_Caranx_f000017_RGHS_jpg.rf.605da651b6132fc92c8725b06bbd4abc",
+        "category_id": 1,
+        "bbox": [
+            100.938,
+            128.5,
+            166.062,
+            195.0
+        ],
+        "score": 0.93164
+    },
+    {
+        "image_id": "9892_Caranx_f000019_RGHS_jpg.rf.1a43b67a219541cba3f347fe17eb4c06",
+        "category_id": 1,
+        "bbox": [
+            86.688,
+            134.75,
+            174.062,
+            197.5
+        ],
+        "score": 0.93652
+    },
+    {
+        "image_id": "9892_Caranx_f000019_RGHS_jpg.rf.1a43b67a219541cba3f347fe17eb4c06",
+        "category_id": 1,
+        "bbox": [
+            212.875,
+            0.0,
+            161.125,
+            44.031
+        ],
+        "score": 0.11877
+    },
+    {
+        "image_id": "9892_Caranx_f000019_RGHS_jpg.rf.1a43b67a219541cba3f347fe17eb4c06",
+        "category_id": 1,
+        "bbox": [
+            213.25,
+            0.0,
+            104.5,
+            43.188
+        ],
+        "score": 0.07318
+    },
+    {
+        "image_id": "9892_Caranx_f000024_RGHS_jpg.rf.b2e5fe2785003190fd46dce3ffce32f4",
+        "category_id": 1,
+        "bbox": [
+            45.0,
+            148.75,
+            181.75,
+            208.0
+        ],
+        "score": 0.93701
+    },
+    {
+        "image_id": "9892_Caranx_f000024_RGHS_jpg.rf.b2e5fe2785003190fd46dce3ffce32f4",
+        "category_id": 1,
+        "bbox": [
+            167.25,
+            0.0,
+            155.0,
+            77.312
+        ],
+        "score": 0.86816
+    },
+    {
+        "image_id": "9894_gerres_f000043_RGHS_jpg.rf.3e67324494ddf24e4618ba94da760e89",
+        "category_id": 4,
+        "bbox": [
+            111.312,
+            493.5,
+            131.938,
+            146.5
+        ],
+        "score": 0.89893
+    },
+    {
+        "image_id": "9894_gerres_f000043_RGHS_jpg.rf.3e67324494ddf24e4618ba94da760e89",
+        "category_id": 4,
+        "bbox": [
+            111.062,
+            493.5,
+            113.438,
+            80.0
+        ],
+        "score": 0.00166
+    },
+    {
+        "image_id": "9894_gerres_f000033_RGHS_jpg.rf.b28790814b7674ee6eb8c870eb2e82d9",
+        "category_id": 4,
+        "bbox": [
+            195.375,
+            515.0,
+            126.125,
+            125.0
+        ],
+        "score": 0.90381
+    },
+    {
+        "image_id": "9894_gerres_f000029_RGHS_jpg.rf.053db673dfb23966733f8efcab0f856f",
+        "category_id": 4,
+        "bbox": [
+            221.25,
+            516.0,
+            147.0,
+            124.0
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "9894_gerres_f000026_RGHS_jpg.rf.5ea9e2793759946eb97a031b9f9f012f",
+        "category_id": 4,
+        "bbox": [
+            246.5,
+            517.0,
+            153.0,
+            123.0
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9894_gerres_f000025_RGHS_jpg.rf.de7614fe3b90ca09b49d1811cfa51387",
+        "category_id": 4,
+        "bbox": [
+            253.75,
+            517.0,
+            146.5,
+            122.0
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9894_gerres_f000023_RGHS_jpg.rf.3f4e53c89137d87b24aaa80cf299d363",
+        "category_id": 4,
+        "bbox": [
+            266.5,
+            510.0,
+            133.0,
+            126.0
+        ],
+        "score": 0.90527
+    },
+    {
+        "image_id": "9894_gerres_f000022_RGHS_jpg.rf.4dde706015c8fe176b9a7a3d8f38ca3b",
+        "category_id": 4,
+        "bbox": [
+            270.5,
+            508.0,
+            134.0,
+            127.0
+        ],
+        "score": 0.89844
+    },
+    {
+        "image_id": "9894_gerres_f000021_RGHS_jpg.rf.fc45bf1a1add6c3479017b7fcaf692f6",
+        "category_id": 4,
+        "bbox": [
+            277.5,
+            505.0,
+            142.0,
+            132.0
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "9894_gerres_f000019_RGHS_jpg.rf.048d59b9b42cbe5243c8f26ff81ff75c",
+        "category_id": 4,
+        "bbox": [
+            292.0,
+            505.0,
+            141.0,
+            130.0
+        ],
+        "score": 0.90967
+    },
+    {
+        "image_id": "9870_Gerres_f000132_RGHS_jpg.rf.fcb70c0bbe2e3dcfebefce048c938b56",
+        "category_id": 4,
+        "bbox": [
+            386.5,
+            223.5,
+            68.0,
+            54.5
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "9894_gerres_f000016_RGHS_jpg.rf.cf62998b02d27e78c626366610e05e11",
+        "category_id": 4,
+        "bbox": [
+            314.5,
+            504.0,
+            155.0,
+            122.0
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "9894_gerres_2_f000054_RGHS_jpg.rf.a3dfe3ae25e084186be27cceeb5772f1",
+        "category_id": 4,
+        "bbox": [
+            414.5,
+            488.5,
+            136.5,
+            110.0
+        ],
+        "score": 0.89502
+    },
+    {
+        "image_id": "9894_gerres_2_f000053_RGHS_jpg.rf.b6e691476cc80210a8933be5334800df",
+        "category_id": 4,
+        "bbox": [
+            409.0,
+            499.5,
+            136.0,
+            99.0
+        ],
+        "score": 0.88086
+    },
+    {
+        "image_id": "9894_gerres_2_f000052_RGHS_jpg.rf.0fbf2b22dfc64bb6d8a0138b77dbbf58",
+        "category_id": 4,
+        "bbox": [
+            393.0,
+            499.0,
+            140.5,
+            102.0
+        ],
+        "score": 0.88477
+    },
+    {
+        "image_id": "9894_gerres_2_f000044_RGHS_jpg.rf.0a1fe924ffc160607268bff28829024f",
+        "category_id": 4,
+        "bbox": [
+            334.5,
+            503.0,
+            137.0,
+            100.0
+        ],
+        "score": 0.89893
+    },
+    {
+        "image_id": "9894_gerres_2_f000035_RGHS_jpg.rf.b2dfb80b8db115b5863e57243b3b99ba",
+        "category_id": 4,
+        "bbox": [
+            260.5,
+            482.75,
+            124.0,
+            88.25
+        ],
+        "score": 0.89893
+    },
+    {
+        "image_id": "9894_gerres_2_f000031_RGHS_jpg.rf.7c37cc3e3e7c7b711d9e4c950ae3f05b",
+        "category_id": 4,
+        "bbox": [
+            244.0,
+            468.25,
+            98.5,
+            91.75
+        ],
+        "score": 0.88428
+    },
+    {
+        "image_id": "9894_gerres_2_f000013_RGHS_jpg.rf.407175b8934940547361a82e5b87fc63",
+        "category_id": 4,
+        "bbox": [
+            130.375,
+            402.5,
+            91.75,
+            96.0
+        ],
+        "score": 0.90527
+    },
+    {
+        "image_id": "9894_gerres_2_f000010_RGHS_jpg.rf.5eb1420c7d63cf1e11c78ba874979430",
+        "category_id": 4,
+        "bbox": [
+            113.5,
+            402.5,
+            102.0,
+            100.0
+        ],
+        "score": 0.88477
+    },
+    {
+        "image_id": "9892_Caranx_f000039_RGHS_jpg.rf.e46465b8c0716435a3e50ad76997b51d",
+        "category_id": 1,
+        "bbox": [
+            0.062,
+            1.0,
+            243.938,
+            178.25
+        ],
+        "score": 0.92822
+    },
+    {
+        "image_id": "9892_Caranx_f000039_RGHS_jpg.rf.e46465b8c0716435a3e50ad76997b51d",
+        "category_id": 1,
+        "bbox": [
+            0.25,
+            230.125,
+            103.25,
+            177.875
+        ],
+        "score": 0.90283
+    },
+    {
+        "image_id": "9892_Caranx_f000039_RGHS_jpg.rf.e46465b8c0716435a3e50ad76997b51d",
+        "category_id": 0,
+        "bbox": [
+            0.25,
+            0.25,
+            243.75,
+            178.875
+        ],
+        "score": 0.00182
+    },
+    {
+        "image_id": "9894_gerres_2_f000057_RGHS_jpg.rf.7e6dc64203bfa07d5d54fb7fa51c281a",
+        "category_id": 4,
+        "bbox": [
+            434.5,
+            491.75,
+            126.0,
+            102.25
+        ],
+        "score": 0.89404
+    },
+    {
+        "image_id": "9894_gerres_f000045_RGHS_jpg.rf.9e04f22c6b336b77c888c72bd4dee474",
+        "category_id": 4,
+        "bbox": [
+            98.438,
+            485.5,
+            126.562,
+            150.0
+        ],
+        "score": 0.86084
+    },
+    {
+        "image_id": "9870_Gerres_f000127_RGHS_jpg.rf.db6b654b660bbddccc9d34dab146e2b0",
+        "category_id": 4,
+        "bbox": [
+            366.25,
+            228.875,
+            68.0,
+            52.125
+        ],
+        "score": 0.89502
+    },
+    {
+        "image_id": "9870_Gerres_f000127_RGHS_jpg.rf.db6b654b660bbddccc9d34dab146e2b0",
+        "category_id": 4,
+        "bbox": [
+            130.25,
+            252.0,
+            12.0,
+            18.0
+        ],
+        "score": 0.00149
+    },
+    {
+        "image_id": "9870_Gerres_f000122_RGHS_jpg.rf.9301eac9d12741ac55ee9121aa15870c",
+        "category_id": 4,
+        "bbox": [
+            342.0,
+            232.5,
+            70.5,
+            54.0
+        ],
+        "score": 0.89844
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000195_RGHS_jpg.rf.eb2161e069ef14236e9c5fe25d7a8f0e",
+        "category_id": 0,
+        "bbox": [
+            196.625,
+            136.125,
+            95.875,
+            232.875
+        ],
+        "score": 0.9082
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000191_RGHS_jpg.rf.cf38926ce3163690bd6f26f237377154",
+        "category_id": 0,
+        "bbox": [
+            210.5,
+            134.0,
+            84.0,
+            236.5
+        ],
+        "score": 0.89453
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000189_RGHS_jpg.rf.0719383df24e11edccf7a1cf90d9e7ac",
+        "category_id": 0,
+        "bbox": [
+            204.125,
+            129.375,
+            93.875,
+            234.125
+        ],
+        "score": 0.89258
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000179_RGHS_jpg.rf.a78292c426ef23f4ec70a220d4f66db1",
+        "category_id": 0,
+        "bbox": [
+            233.0,
+            128.5,
+            75.0,
+            212.0
+        ],
+        "score": 0.88184
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000174_RGHS_jpg.rf.a92342b8d9f4d24371ea51e428a5191b",
+        "category_id": 0,
+        "bbox": [
+            245.0,
+            124.0,
+            70.0,
+            203.0
+        ],
+        "score": 0.89941
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000171_RGHS_jpg.rf.ebd4761808fb4b972caf2ee8c891525c",
+        "category_id": 0,
+        "bbox": [
+            255.5,
+            121.75,
+            61.0,
+            197.75
+        ],
+        "score": 0.8667
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000162_RGHS_jpg.rf.18810e0d6f98e7a2fef74b8df1c1cbcd",
+        "category_id": 0,
+        "bbox": [
+            269.0,
+            117.0,
+            70.0,
+            194.0
+        ],
+        "score": 0.89355
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000156_RGHS_jpg.rf.bd1e058fccfad0c69effb2ac1df3410c",
+        "category_id": 0,
+        "bbox": [
+            283.75,
+            122.25,
+            58.5,
+            191.25
+        ],
+        "score": 0.86914
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000155_RGHS_jpg.rf.4963921be437f2da727029427a16f17b",
+        "category_id": 0,
+        "bbox": [
+            286.0,
+            122.25,
+            59.0,
+            194.75
+        ],
+        "score": 0.85352
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000151_RGHS_jpg.rf.5d384a1bd43a276c9ec9e88ceaa05ee2",
+        "category_id": 0,
+        "bbox": [
+            291.0,
+            135.25,
+            59.5,
+            183.5
+        ],
+        "score": 0.86768
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000148_RGHS_jpg.rf.74d6f65c08085e6ecd100ed9fd642c31",
+        "category_id": 0,
+        "bbox": [
+            279.5,
+            147.5,
+            75.0,
+            175.0
+        ],
+        "score": 0.88672
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000147_RGHS_jpg.rf.dc6b747ed5e181a4f724d7b315ebf665",
+        "category_id": 0,
+        "bbox": [
+            275.5,
+            149.75,
+            79.0,
+            172.75
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000146_RGHS_jpg.rf.1d75f7a3f2abfb606ca8e846290a9ae6",
+        "category_id": 0,
+        "bbox": [
+            273.5,
+            154.0,
+            81.0,
+            170.75
+        ],
+        "score": 0.89795
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000142_RGHS_jpg.rf.989e8310d866ffe7992420240a3c8a30",
+        "category_id": 0,
+        "bbox": [
+            279.5,
+            170.75,
+            73.5,
+            146.0
+        ],
+        "score": 0.9043
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000134_RGHS_jpg.rf.82be01355349853c722615970af384ea",
+        "category_id": 0,
+        "bbox": [
+            252.5,
+            196.375,
+            104.0,
+            147.125
+        ],
+        "score": 0.91797
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000121_RGHS_jpg.rf.b18cb05a3fb88bb4f58141adc90996e8",
+        "category_id": 0,
+        "bbox": [
+            203.875,
+            237.5,
+            140.125,
+            137.5
+        ],
+        "score": 0.92188
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000118_RGHS_jpg.rf.b0ac5749adb3ce97b822dff90cb88e81",
+        "category_id": 0,
+        "bbox": [
+            191.0,
+            247.5,
+            141.0,
+            144.0
+        ],
+        "score": 0.92529
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000117_RGHS_jpg.rf.7fe35865999490adbbe1a4b97578c2c4",
+        "category_id": 0,
+        "bbox": [
+            182.625,
+            250.5,
+            145.875,
+            146.0
+        ],
+        "score": 0.93262
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000114_RGHS_jpg.rf.e342e46e6a13eb514b719390a46821ce",
+        "category_id": 0,
+        "bbox": [
+            165.875,
+            256.5,
+            150.125,
+            146.0
+        ],
+        "score": 0.93506
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000199_RGHS_jpg.rf.ccb5b5b56511d2332e269bc1bbe79175",
+        "category_id": 0,
+        "bbox": [
+            194.5,
+            134.75,
+            89.5,
+            235.5
+        ],
+        "score": 0.87207
+    },
+    {
+        "image_id": "9870_Gerres_f000020_RGHS_jpg.rf.4445cb9c9c660d07a40bdcac6880df6f",
+        "category_id": 4,
+        "bbox": [
+            129.5,
+            230.875,
+            44.0,
+            48.125
+        ],
+        "score": 0.90186
+    },
+    {
+        "image_id": "9870_Gerres_f000021_RGHS_jpg.rf.a2aeed0cfed63f3d5630e2e2781d5a16",
+        "category_id": 4,
+        "bbox": [
+            129.5,
+            229.0,
+            49.0,
+            47.5
+        ],
+        "score": 0.87744
+    },
+    {
+        "image_id": "9870_Gerres_f000023_RGHS_jpg.rf.7237762e28307a170d73d8d385346600",
+        "category_id": 4,
+        "bbox": [
+            130.0,
+            225.625,
+            55.5,
+            48.875
+        ],
+        "score": 0.89551
+    },
+    {
+        "image_id": "9870_Gerres_f000120_RGHS_jpg.rf.3fed7de13d8f44cbbb4052aa77e84cbd",
+        "category_id": 4,
+        "bbox": [
+            339.0,
+            236.0,
+            64.0,
+            51.0
+        ],
+        "score": 0.89111
+    },
+    {
+        "image_id": "9870_Gerres_f000118_RGHS_jpg.rf.079e3caca92974a63fbb82b534e6784e",
+        "category_id": 4,
+        "bbox": [
+            330.5,
+            235.625,
+            63.0,
+            53.875
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9870_Gerres_f000115_RGHS_jpg.rf.5e57a6425dc0a54aa17d2e0dc3a33d32",
+        "category_id": 4,
+        "bbox": [
+            319.0,
+            238.0,
+            59.5,
+            51.0
+        ],
+        "score": 0.89404
+    },
+    {
+        "image_id": "9870_Gerres_f000113_RGHS_jpg.rf.01cba2511fd26d6d81c673e73b8d1ad3",
+        "category_id": 4,
+        "bbox": [
+            303.0,
+            238.75,
+            65.5,
+            51.5
+        ],
+        "score": 0.88721
+    },
+    {
+        "image_id": "9870_Gerres_f000111_RGHS_jpg.rf.51be281f0b1bdbacde9b437298f080e4",
+        "category_id": 4,
+        "bbox": [
+            296.5,
+            238.125,
+            63.5,
+            48.875
+        ],
+        "score": 0.88232
+    },
+    {
+        "image_id": "9870_Gerres_f000108_RGHS_jpg.rf.a84e1b20c631ce7b163828c5ef45d06a",
+        "category_id": 4,
+        "bbox": [
+            284.0,
+            235.75,
+            60.0,
+            48.5
+        ],
+        "score": 0.87842
+    },
+    {
+        "image_id": "9870_Gerres_f000104_RGHS_jpg.rf.62f671f19154e4d17c0774c12f469514",
+        "category_id": 4,
+        "bbox": [
+            264.25,
+            230.75,
+            58.5,
+            50.0
+        ],
+        "score": 0.85498
+    },
+    {
+        "image_id": "9870_Gerres_f000096_RGHS_jpg.rf.40dcd61e9e24ef33ae686a82318441df",
+        "category_id": 4,
+        "bbox": [
+            232.125,
+            212.375,
+            55.875,
+            57.125
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9870_Gerres_f000092_RGHS_jpg.rf.4be7d21b79f6d4e9479820e224aa6e1e",
+        "category_id": 4,
+        "bbox": [
+            231.25,
+            212.0,
+            56.5,
+            57.0
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "9870_Gerres_f000125_RGHS_jpg.rf.02bed1ae98771782dc0c9a9de6eb6605",
+        "category_id": 4,
+        "bbox": [
+            360.0,
+            230.25,
+            66.5,
+            53.5
+        ],
+        "score": 0.88184
+    },
+    {
+        "image_id": "9870_Gerres_f000088_RGHS_jpg.rf.3a92627d6e705aa2a30466c67247b17e",
+        "category_id": 4,
+        "bbox": [
+            229.875,
+            212.0,
+            58.125,
+            54.5
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "9870_Gerres_f000077_RGHS_jpg.rf.ff81a0120988e3268024c8091c12c15a",
+        "category_id": 4,
+        "bbox": [
+            231.125,
+            212.25,
+            56.875,
+            50.5
+        ],
+        "score": 0.88818
+    },
+    {
+        "image_id": "9870_Gerres_f000068_RGHS_jpg.rf.8e116c388896000830a10169d6f5b72d",
+        "category_id": 4,
+        "bbox": [
+            230.25,
+            213.0,
+            58.0,
+            50.5
+        ],
+        "score": 0.90332
+    },
+    {
+        "image_id": "9870_Gerres_f000063_RGHS_jpg.rf.5539f0f6b52e05818e1fd51dadaf6a03",
+        "category_id": 4,
+        "bbox": [
+            229.5,
+            212.5,
+            58.5,
+            51.5
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9870_Gerres_f000062_RGHS_jpg.rf.bbe6cbdac961332db420ba9a5826541c",
+        "category_id": 4,
+        "bbox": [
+            229.5,
+            212.75,
+            59.0,
+            52.0
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9870_Gerres_f000059_RGHS_jpg.rf.3331db68426c9590a89688b20cc3b813",
+        "category_id": 4,
+        "bbox": [
+            228.75,
+            212.75,
+            59.0,
+            52.75
+        ],
+        "score": 0.91406
+    },
+    {
+        "image_id": "9870_Gerres_f000051_RGHS_jpg.rf.fb605eb3f82592fcf72f1bfe988fa0bc",
+        "category_id": 4,
+        "bbox": [
+            228.5,
+            214.0,
+            59.0,
+            50.25
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "9870_Gerres_f000051_RGHS_jpg.rf.fb605eb3f82592fcf72f1bfe988fa0bc",
+        "category_id": 4,
+        "bbox": [
+            93.5,
+            225.75,
+            14.5,
+            18.5
+        ],
+        "score": 0.00128
+    },
+    {
+        "image_id": "9870_Gerres_f000041_RGHS_jpg.rf.299003585ee71223a13044a5fa78e956",
+        "category_id": 4,
+        "bbox": [
+            215.0,
+            215.0,
+            59.0,
+            50.0
+        ],
+        "score": 0.88965
+    },
+    {
+        "image_id": "9870_Gerres_f000037_RGHS_jpg.rf.cf462160fe53ef95890ae92cb4187186",
+        "category_id": 4,
+        "bbox": [
+            195.5,
+            215.125,
+            61.5,
+            50.875
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9870_Gerres_f000037_RGHS_jpg.rf.cf462160fe53ef95890ae92cb4187186",
+        "category_id": 4,
+        "bbox": [
+            126.25,
+            225.25,
+            10.25,
+            20.0
+        ],
+        "score": 0.00498
+    },
+    {
+        "image_id": "9870_Gerres_f000037_RGHS_jpg.rf.cf462160fe53ef95890ae92cb4187186",
+        "category_id": 4,
+        "bbox": [
+            128.25,
+            229.5,
+            8.5,
+            17.5
+        ],
+        "score": 0.00132
+    },
+    {
+        "image_id": "9870_Gerres_f000024_RGHS_jpg.rf.68270fcdc03e98b762396d5f9a833b77",
+        "category_id": 4,
+        "bbox": [
+            132.5,
+            225.25,
+            61.25,
+            47.0
+        ],
+        "score": 0.88574
+    },
+    {
+        "image_id": "9870_Gerres_f000078_RGHS_jpg.rf.b9b6377d0831782636cb625a29de4993",
+        "category_id": 4,
+        "bbox": [
+            231.0,
+            212.5,
+            57.0,
+            51.0
+        ],
+        "score": 0.90674
+    },
+    {
+        "image_id": "9894_gerres_f000046_RGHS_jpg.rf.1831c095b9fc19d30e6656452e1eb1b1",
+        "category_id": 4,
+        "bbox": [
+            91.25,
+            482.5,
+            131.25,
+            157.5
+        ],
+        "score": 0.83643
+    },
+    {
+        "image_id": "9894_gerres_f000048_RGHS_jpg.rf.c2a1ecc873dd3c010392ca7beb24acb0",
+        "category_id": 4,
+        "bbox": [
+            78.25,
+            475.0,
+            137.75,
+            149.0
+        ],
+        "score": 0.81152
+    },
+    {
+        "image_id": "9894_gerres_f000049_RGHS_jpg.rf.6ad660281871b4b5506a800ed16eeea2",
+        "category_id": 4,
+        "bbox": [
+            71.125,
+            473.25,
+            146.75,
+            153.75
+        ],
+        "score": 0.83203
+    },
+    {
+        "image_id": "9908_Epinephelus_f000060_RGHS_jpg.rf.9c7591c6a9e090711d1ad8209768e1ab",
+        "category_id": 3,
+        "bbox": [
+            12.5,
+            314.0,
+            315.0,
+            253.0
+        ],
+        "score": 0.96387
+    },
+    {
+        "image_id": "9908_Epinephelus_f000057_RGHS_jpg.rf.552bf8bf0725a5b7e90df44f5c3a2ff2",
+        "category_id": 3,
+        "bbox": [
+            6.75,
+            318.0,
+            310.25,
+            248.0
+        ],
+        "score": 0.9668
+    },
+    {
+        "image_id": "9908_Epinephelus_f000055_RGHS_jpg.rf.d9633c6e2b1d4b772c0f283e8db209a6",
+        "category_id": 3,
+        "bbox": [
+            0.0,
+            319.5,
+            311.75,
+            247.0
+        ],
+        "score": 0.96631
+    },
+    {
+        "image_id": "9908_Epinephelus_f000044_RGHS_jpg.rf.43b4038b42753e748a6c1aa4556679b6",
+        "category_id": 3,
+        "bbox": [
+            0.25,
+            332.0,
+            279.0,
+            226.5
+        ],
+        "score": 0.94824
+    },
+    {
+        "image_id": "9908_Epinephelus_f000042_RGHS_jpg.rf.df9ddcd09bebe56d64419b8fac4216ae",
+        "category_id": 3,
+        "bbox": [
+            0.5,
+            335.0,
+            273.5,
+            237.0
+        ],
+        "score": 0.94873
+    },
+    {
+        "image_id": "9908_Epinephelus_f000038_RGHS_jpg.rf.ffe84f00f9ad65c7c3073aa9cbf017ca",
+        "category_id": 3,
+        "bbox": [
+            0.25,
+            340.5,
+            265.5,
+            244.0
+        ],
+        "score": 0.95703
+    },
+    {
+        "image_id": "9908_Epinephelus_f000027_RGHS_jpg.rf.23b734d3fc5c2555e40aa6ca3cbad601",
+        "category_id": 3,
+        "bbox": [
+            0.0,
+            365.5,
+            230.375,
+            249.5
+        ],
+        "score": 0.95068
+    },
+    {
+        "image_id": "9908_Epinephelus_f000025_RGHS_jpg.rf.7d7fc342cd3362c4588ed905c1a6e0cc",
+        "category_id": 3,
+        "bbox": [
+            0.0,
+            370.0,
+            218.5,
+            244.0
+        ],
+        "score": 0.95459
+    },
+    {
+        "image_id": "9908_Epinephelus_f000017_RGHS_jpg.rf.4bbda9f07efee886e06699ea78397cfe",
+        "category_id": 3,
+        "bbox": [
+            0.25,
+            385.25,
+            189.5,
+            227.75
+        ],
+        "score": 0.96924
+    },
+    {
+        "image_id": "9908_Epinephelus_f000015_RGHS_jpg.rf.db5bcf52cc710c3ad0b7e6b1a1f1298b",
+        "category_id": 3,
+        "bbox": [
+            0.5,
+            387.0,
+            178.75,
+            222.0
+        ],
+        "score": 0.97119
+    },
+    {
+        "image_id": "9908_Epinephelus_f000001_RGHS_jpg.rf.19f47b42ad0d767fa998ed5281973e7d",
+        "category_id": 3,
+        "bbox": [
+            0.0,
+            410.75,
+            146.5,
+            228.25
+        ],
+        "score": 0.96191
+    },
+    {
+        "image_id": "9908_Epinephelus_f000000_RGHS_jpg.rf.6274dd66f1ebb7e84eaf14a59b37d6c7",
+        "category_id": 3,
+        "bbox": [
+            0.375,
+            411.75,
+            144.125,
+            226.25
+        ],
+        "score": 0.96045
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000106_RGHS_jpg.rf.7f9b929c7c3b980af7d1ca83a33de807",
+        "category_id": 0,
+        "bbox": [
+            480.0,
+            0.5,
+            160.0,
+            214.5
+        ],
+        "score": 0.94775
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000105_RGHS_jpg.rf.688bbaead6b1797acdcda97b4ce72683",
+        "category_id": 0,
+        "bbox": [
+            476.5,
+            0.625,
+            163.5,
+            216.0
+        ],
+        "score": 0.94873
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000101_RGHS_jpg.rf.e3aebf8ca2cf54af555a704f3644eecd",
+        "category_id": 0,
+        "bbox": [
+            450.0,
+            0.625,
+            190.0,
+            210.75
+        ],
+        "score": 0.94238
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000097_RGHS_jpg.rf.76e46353dbabf7801e8cfca75511413d",
+        "category_id": 0,
+        "bbox": [
+            426.25,
+            0.188,
+            213.75,
+            228.062
+        ],
+        "score": 0.96191
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000095_RGHS_jpg.rf.76f6ae2600be4ddb16d3577d17a18cc3",
+        "category_id": 0,
+        "bbox": [
+            422.0,
+            0.25,
+            218.0,
+            226.5
+        ],
+        "score": 0.96338
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000094_RGHS_jpg.rf.fc1f5b992dea88df388c0f86c12b1d3b",
+        "category_id": 0,
+        "bbox": [
+            420.25,
+            0.188,
+            219.75,
+            226.312
+        ],
+        "score": 0.96533
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000085_RGHS_jpg.rf.9a81ac91c630f908a226f66a79ed1d8c",
+        "category_id": 0,
+        "bbox": [
+            405.75,
+            0.25,
+            234.25,
+            219.5
+        ],
+        "score": 0.94336
+    },
+    {
+        "image_id": "9908_Epinephelus_f000061_RGHS_jpg.rf.6455122c9b1e367985a012fefbe7bfba",
+        "category_id": 3,
+        "bbox": [
+            19.25,
+            313.0,
+            315.0,
+            255.0
+        ],
+        "score": 0.95898
+    },
+    {
+        "image_id": "9908_Epinephelus_f000063_RGHS_jpg.rf.38a6aef82d772d04e816d6446b9d01f6",
+        "category_id": 3,
+        "bbox": [
+            31.0,
+            308.0,
+            311.0,
+            258.5
+        ],
+        "score": 0.95508
+    },
+    {
+        "image_id": "9908_Epinephelus_f000067_RGHS_jpg.rf.52e6c51007c33877f18aec4e4034858e",
+        "category_id": 3,
+        "bbox": [
+            64.75,
+            303.0,
+            294.0,
+            259.0
+        ],
+        "score": 0.95703
+    },
+    {
+        "image_id": "9908_Epinephelus_f000071_RGHS_jpg.rf.a6338f97f4beca3c0cb2fd42405c27ba",
+        "category_id": 3,
+        "bbox": [
+            101.0,
+            296.5,
+            264.5,
+            257.5
+        ],
+        "score": 0.94824
+    },
+    {
+        "image_id": "9908_Epinephelus_f000163_RGHS_jpg.rf.a842322d11600bad286c7ea8211c34cc",
+        "category_id": 3,
+        "bbox": [
+            406.5,
+            193.0,
+            231.0,
+            153.5
+        ],
+        "score": 0.95068
+    },
+    {
+        "image_id": "9908_Epinephelus_f000161_RGHS_jpg.rf.a4f09980481d9ee2ebf5605b4d498464",
+        "category_id": 3,
+        "bbox": [
+            405.0,
+            193.75,
+            230.0,
+            153.5
+        ],
+        "score": 0.94385
+    },
+    {
+        "image_id": "9908_Epinephelus_f000158_RGHS_jpg.rf.d8602b2f2a090f3302830c0bfa48defb",
+        "category_id": 3,
+        "bbox": [
+            398.0,
+            196.0,
+            227.0,
+            155.5
+        ],
+        "score": 0.93701
+    },
+    {
+        "image_id": "9908_Epinephelus_f000152_RGHS_jpg.rf.12a6fcc3d9125ec0e9c10a9ac207c45b",
+        "category_id": 3,
+        "bbox": [
+            387.0,
+            200.5,
+            221.0,
+            156.5
+        ],
+        "score": 0.94141
+    },
+    {
+        "image_id": "9908_Epinephelus_f000151_RGHS_jpg.rf.e88d853609f98a0a9bf5070fa8ef514c",
+        "category_id": 3,
+        "bbox": [
+            386.0,
+            201.25,
+            216.0,
+            158.5
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9908_Epinephelus_f000151_RGHS_jpg.rf.e88d853609f98a0a9bf5070fa8ef514c",
+        "category_id": 0,
+        "bbox": [
+            260.0,
+            465.0,
+            29.0,
+            87.0
+        ],
+        "score": 0.00102
+    },
+    {
+        "image_id": "9908_Epinephelus_f000149_RGHS_jpg.rf.cd05765a53d73b4a4d2e1a9ed3ee9936",
+        "category_id": 3,
+        "bbox": [
+            384.5,
+            203.25,
+            209.0,
+            157.0
+        ],
+        "score": 0.94678
+    },
+    {
+        "image_id": "9908_Epinephelus_f000144_RGHS_jpg.rf.407011bf16ed2adaf8c8b5767949248e",
+        "category_id": 3,
+        "bbox": [
+            378.0,
+            206.25,
+            207.0,
+            160.5
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9908_Epinephelus_f000143_RGHS_jpg.rf.3ccb17a9554aabc24659e83b3975a2c2",
+        "category_id": 3,
+        "bbox": [
+            376.0,
+            206.875,
+            203.0,
+            158.125
+        ],
+        "score": 0.94092
+    },
+    {
+        "image_id": "9908_Epinephelus_f000140_RGHS_jpg.rf.844062d9a62b41b7c08160a57440f89f",
+        "category_id": 3,
+        "bbox": [
+            373.0,
+            208.625,
+            199.0,
+            159.875
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000078_RGHS_jpg.rf.7935b6bc3c6267a1baf53d76eac9ea47",
+        "category_id": 0,
+        "bbox": [
+            366.0,
+            0.5,
+            274.0,
+            223.75
+        ],
+        "score": 0.95117
+    },
+    {
+        "image_id": "9908_Epinephelus_f000135_RGHS_jpg.rf.266ed11a913ac9262fc3dd12e59814f9",
+        "category_id": 3,
+        "bbox": [
+            371.0,
+            211.5,
+            186.5,
+            178.0
+        ],
+        "score": 0.9458
+    },
+    {
+        "image_id": "9908_Epinephelus_f000129_RGHS_jpg.rf.098992dcdb84e64f2bf8017e9f1bba0e",
+        "category_id": 3,
+        "bbox": [
+            360.0,
+            217.0,
+            176.0,
+            185.5
+        ],
+        "score": 0.95117
+    },
+    {
+        "image_id": "9908_Epinephelus_f000127_RGHS_jpg.rf.ff90b328d0e7a8104d99a147749d75ba",
+        "category_id": 3,
+        "bbox": [
+            350.5,
+            219.0,
+            179.0,
+            177.5
+        ],
+        "score": 0.95508
+    },
+    {
+        "image_id": "9908_Epinephelus_f000107_RGHS_jpg.rf.3b5f21f31c36ed74d9b95ddfd3d4b1ea",
+        "category_id": 3,
+        "bbox": [
+            255.0,
+            241.0,
+            214.5,
+            208.5
+        ],
+        "score": 0.95312
+    },
+    {
+        "image_id": "9908_Epinephelus_f000104_RGHS_jpg.rf.d5b8c61d341f3b426faf4ee8fd945a4b",
+        "category_id": 3,
+        "bbox": [
+            251.0,
+            243.5,
+            213.0,
+            209.0
+        ],
+        "score": 0.95801
+    },
+    {
+        "image_id": "9908_Epinephelus_f000103_RGHS_jpg.rf.4dbf99e28bec15937d9190a289211c06",
+        "category_id": 3,
+        "bbox": [
+            251.5,
+            244.5,
+            212.0,
+            210.5
+        ],
+        "score": 0.96045
+    },
+    {
+        "image_id": "9908_Epinephelus_f000101_RGHS_jpg.rf.a75f029b6f2bc144298f51e90359c6fb",
+        "category_id": 3,
+        "bbox": [
+            252.0,
+            245.5,
+            208.0,
+            211.0
+        ],
+        "score": 0.95947
+    },
+    {
+        "image_id": "9908_Epinephelus_f000083_RGHS_jpg.rf.2f51e6f89bb7da4409b2cfa6769ac6f1",
+        "category_id": 3,
+        "bbox": [
+            138.625,
+            270.0,
+            256.875,
+            224.0
+        ],
+        "score": 0.95605
+    },
+    {
+        "image_id": "9908_Epinephelus_f000081_RGHS_jpg.rf.6ae23d61d37a128392807e9cfdd9ce07",
+        "category_id": 3,
+        "bbox": [
+            128.625,
+            275.5,
+            262.875,
+            225.0
+        ],
+        "score": 0.95654
+    },
+    {
+        "image_id": "9908_Epinephelus_f000080_RGHS_jpg.rf.bec0f2672e471f01e598e97ecc5b3190",
+        "category_id": 3,
+        "bbox": [
+            126.625,
+            278.0,
+            261.875,
+            226.5
+        ],
+        "score": 0.94775
+    },
+    {
+        "image_id": "9908_Epinephelus_f000131_RGHS_jpg.rf.57575fd2c67327b0924340471ea28eab",
+        "category_id": 3,
+        "bbox": [
+            367.0,
+            215.5,
+            174.0,
+            176.5
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000072_RGHS_jpg.rf.a49a725f76f70e8868a4543fd5eb6b04",
+        "category_id": 0,
+        "bbox": [
+            343.0,
+            0.25,
+            297.0,
+            235.75
+        ],
+        "score": 0.95264
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000070_RGHS_jpg.rf.085ed475cf7a93452b51b5c6604503da",
+        "category_id": 0,
+        "bbox": [
+            336.0,
+            0.0,
+            304.0,
+            241.25
+        ],
+        "score": 0.95996
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000061_RGHS_jpg.rf.af62f6948fb36f58d72cf3446e1df6f8",
+        "category_id": 0,
+        "bbox": [
+            317.5,
+            0.0,
+            305.5,
+            263.5
+        ],
+        "score": 0.96191
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000125_RGHS_jpg.rf.90ae6556e83155b44f100500a40b8c40",
+        "category_id": 0,
+        "bbox": [
+            323.0,
+            112.0,
+            148.0,
+            342.5
+        ],
+        "score": 0.92822
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000124_RGHS_jpg.rf.af81339f0bcd29c85856351b2156e9b5",
+        "category_id": 0,
+        "bbox": [
+            323.0,
+            108.125,
+            145.0,
+            343.875
+        ],
+        "score": 0.93018
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000122_RGHS_jpg.rf.d7a88caa8bae412c7d35a0e554e62ea7",
+        "category_id": 0,
+        "bbox": [
+            325.0,
+            88.875,
+            149.0,
+            361.125
+        ],
+        "score": 0.93604
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000106_RGHS_jpg.rf.11561b002cf3ca6184186c7b2623de66",
+        "category_id": 0,
+        "bbox": [
+            313.0,
+            94.5,
+            148.0,
+            317.5
+        ],
+        "score": 0.9292
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000101_RGHS_jpg.rf.0babcd6d1aab2c975d9988efe5988fcb",
+        "category_id": 0,
+        "bbox": [
+            316.0,
+            111.0,
+            134.0,
+            294.0
+        ],
+        "score": 0.90137
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000098_RGHS_jpg.rf.a12583448538b5908071965f21c2f3b3",
+        "category_id": 0,
+        "bbox": [
+            321.5,
+            106.875,
+            86.0,
+            280.125
+        ],
+        "score": 0.85205
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000098_RGHS_jpg.rf.a12583448538b5908071965f21c2f3b3",
+        "category_id": 0,
+        "bbox": [
+            325.75,
+            105.25,
+            123.5,
+            282.5
+        ],
+        "score": 0.00102
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000096_RGHS_jpg.rf.cf75e94dd4a7b2a7d218fd4590a762fa",
+        "category_id": 0,
+        "bbox": [
+            321.5,
+            106.0,
+            84.0,
+            269.5
+        ],
+        "score": 0.84375
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000094_RGHS_jpg.rf.9fc6adb28081bd49e4617abcd5cbb8ef",
+        "category_id": 0,
+        "bbox": [
+            323.5,
+            103.25,
+            82.5,
+            256.75
+        ],
+        "score": 0.85693
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000094_RGHS_jpg.rf.9fc6adb28081bd49e4617abcd5cbb8ef",
+        "category_id": 1,
+        "bbox": [
+            259.75,
+            444.25,
+            150.0,
+            131.75
+        ],
+        "score": 0.00175
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000092_RGHS_jpg.rf.4874f0c85ec5879e330a83cfee8a9f00",
+        "category_id": 0,
+        "bbox": [
+            323.0,
+            96.188,
+            78.0,
+            249.562
+        ],
+        "score": 0.86035
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000092_RGHS_jpg.rf.4874f0c85ec5879e330a83cfee8a9f00",
+        "category_id": 0,
+        "bbox": [
+            65.0,
+            137.0,
+            66.875,
+            218.5
+        ],
+        "score": 0.00506
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000126_RGHS_jpg.rf.f7de04bf5e658708e0e2902630d6e3b7",
+        "category_id": 0,
+        "bbox": [
+            328.5,
+            113.5,
+            148.5,
+            346.5
+        ],
+        "score": 0.94287
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000085_RGHS_jpg.rf.6ea951b971e4a621d66d575d5fe4f58e",
+        "category_id": 0,
+        "bbox": [
+            301.5,
+            78.0,
+            91.0,
+            223.25
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "9894_gerres_f000096_RGHS_jpg.rf.cd5db0e82ffb85a9f1aac8ff6fc7d81e",
+        "category_id": 4,
+        "bbox": [
+            68.0,
+            462.75,
+            95.5,
+            128.25
+        ],
+        "score": 0.85107
+    },
+    {
+        "image_id": "9894_gerres_f000096_RGHS_jpg.rf.cd5db0e82ffb85a9f1aac8ff6fc7d81e",
+        "category_id": 3,
+        "bbox": [
+            68.312,
+            463.25,
+            141.438,
+            176.75
+        ],
+        "score": 0.00457
+    },
+    {
+        "image_id": "9894_gerres_f000090_RGHS_jpg.rf.d4e633ec03200acaa9db74e4386a1958",
+        "category_id": 4,
+        "bbox": [
+            55.375,
+            466.0,
+            148.5,
+            125.0
+        ],
+        "score": 0.89893
+    },
+    {
+        "image_id": "9894_gerres_f000087_RGHS_jpg.rf.86aae65855b3cc73045a058d8294eb4a",
+        "category_id": 4,
+        "bbox": [
+            54.5,
+            465.75,
+            153.75,
+            124.25
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9894_gerres_f000083_RGHS_jpg.rf.ddbb7528ce525671df9a6751043d2d02",
+        "category_id": 4,
+        "bbox": [
+            54.0,
+            466.5,
+            154.0,
+            121.0
+        ],
+        "score": 0.90527
+    },
+    {
+        "image_id": "9894_gerres_f000077_RGHS_jpg.rf.fbe7a5147cb92e649c85a2311f79c77c",
+        "category_id": 4,
+        "bbox": [
+            54.0,
+            467.5,
+            163.25,
+            119.0
+        ],
+        "score": 0.89746
+    },
+    {
+        "image_id": "9894_gerres_f000069_RGHS_jpg.rf.2a545e0c4d577601cd6042eafc1aec4a",
+        "category_id": 4,
+        "bbox": [
+            55.0,
+            468.0,
+            152.0,
+            118.0
+        ],
+        "score": 0.90527
+    },
+    {
+        "image_id": "9894_gerres_f000067_RGHS_jpg.rf.c7099b32578d6eaf8835716e6d4332c1",
+        "category_id": 4,
+        "bbox": [
+            53.312,
+            469.5,
+            161.938,
+            118.0
+        ],
+        "score": 0.88086
+    },
+    {
+        "image_id": "9894_gerres_f000067_RGHS_jpg.rf.c7099b32578d6eaf8835716e6d4332c1",
+        "category_id": 3,
+        "bbox": [
+            33.562,
+            334.5,
+            60.25,
+            84.5
+        ],
+        "score": 0.00291
+    },
+    {
+        "image_id": "9894_gerres_f000060_RGHS_jpg.rf.9521031295f858da5a2f57d0c4ec80bc",
+        "category_id": 4,
+        "bbox": [
+            55.0,
+            474.25,
+            160.75,
+            113.75
+        ],
+        "score": 0.88086
+    },
+    {
+        "image_id": "9894_gerres_f000051_RGHS_jpg.rf.1c07ff29f87ae4963f4165c5782e65d0",
+        "category_id": 4,
+        "bbox": [
+            59.75,
+            467.0,
+            156.75,
+            142.0
+        ],
+        "score": 0.84082
+    },
+    {
+        "image_id": "9894_gerres_f000101_RGHS_jpg.rf.02a79a2a0aaaa616e585df596dc5f7f4",
+        "category_id": 4,
+        "bbox": [
+            73.75,
+            457.0,
+            53.75,
+            133.0
+        ],
+        "score": 0.84912
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000106_RGHS_jpg.rf.86af4982f0d640312e43bf4c3ddd5f30",
+        "category_id": 0,
+        "bbox": [
+            134.5,
+            248.75,
+            147.25,
+            162.5
+        ],
+        "score": 0.93799
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000131_RGHS_jpg.rf.f3c910c184fcc0e23e7e22527a9c3834",
+        "category_id": 0,
+        "bbox": [
+            330.5,
+            109.0,
+            174.5,
+            362.0
+        ],
+        "score": 0.94531
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000141_RGHS_jpg.rf.e925292b84cca60dbec728f13f664011",
+        "category_id": 0,
+        "bbox": [
+            347.75,
+            136.0,
+            145.0,
+            349.5
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000057_RGHS_jpg.rf.b2a534b45abfc2c7d2926dcf904c16fa",
+        "category_id": 0,
+        "bbox": [
+            299.5,
+            0.25,
+            307.0,
+            283.5
+        ],
+        "score": 0.9585
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000056_RGHS_jpg.rf.12bfccaf957baee723cd4da4fc9a8640",
+        "category_id": 0,
+        "bbox": [
+            298.0,
+            0.5,
+            305.0,
+            287.5
+        ],
+        "score": 0.95654
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000054_RGHS_jpg.rf.da20a01610d2c19e7a7c394f013d3461",
+        "category_id": 0,
+        "bbox": [
+            287.0,
+            0.75,
+            308.0,
+            294.0
+        ],
+        "score": 0.95996
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000050_RGHS_jpg.rf.6d7a0ced2f08ffa43873a68f4fb13cf5",
+        "category_id": 0,
+        "bbox": [
+            280.0,
+            23.25,
+            295.5,
+            295.25
+        ],
+        "score": 0.95459
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000043_RGHS_jpg.rf.266baa4c3feedf9755184a853c31166b",
+        "category_id": 0,
+        "bbox": [
+            271.5,
+            82.0,
+            255.0,
+            271.5
+        ],
+        "score": 0.95264
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000040_RGHS_jpg.rf.99514cab3fc4f9ac03eec052c777898b",
+        "category_id": 0,
+        "bbox": [
+            262.5,
+            111.0,
+            232.0,
+            244.25
+        ],
+        "score": 0.94873
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000037_RGHS_jpg.rf.71b83155ca9519b0d0c508889b4556bd",
+        "category_id": 0,
+        "bbox": [
+            241.5,
+            127.0,
+            218.5,
+            227.0
+        ],
+        "score": 0.95898
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000037_RGHS_jpg.rf.71b83155ca9519b0d0c508889b4556bd",
+        "category_id": 0,
+        "bbox": [
+            261.0,
+            461.0,
+            29.0,
+            93.0
+        ],
+        "score": 0.00512
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000033_RGHS_jpg.rf.176baf51f43fd6f16bf8dd2d7f8a421a",
+        "category_id": 0,
+        "bbox": [
+            207.0,
+            139.5,
+            209.0,
+            203.5
+        ],
+        "score": 0.94775
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000027_RGHS_jpg.rf.87528243534dd417b8b0f697812451fd",
+        "category_id": 0,
+        "bbox": [
+            149.5,
+            156.0,
+            207.5,
+            187.0
+        ],
+        "score": 0.95068
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000139_RGHS_jpg.rf.8d27b8896553495082236721feb6d168",
+        "category_id": 0,
+        "bbox": [
+            342.0,
+            120.25,
+            151.0,
+            358.5
+        ],
+        "score": 0.93994
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000021_RGHS_jpg.rf.deb161e2128d865420a2eddb91217269",
+        "category_id": 0,
+        "bbox": [
+            87.062,
+            163.25,
+            217.938,
+            194.0
+        ],
+        "score": 0.9458
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000005_RGHS_jpg.rf.f9eddb3c80601eaf4d964ed72b884f8e",
+        "category_id": 0,
+        "bbox": [
+            0.75,
+            146.125,
+            138.25,
+            187.875
+        ],
+        "score": 0.93896
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000003_RGHS_jpg.rf.690378ece69746ef9cc9ebd4a9818ba1",
+        "category_id": 0,
+        "bbox": [
+            0.625,
+            144.0,
+            115.875,
+            188.0
+        ],
+        "score": 0.93408
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000168_RGHS_jpg.rf.2954607e53a53ac0317c60452e3e1cbc",
+        "category_id": 0,
+        "bbox": [
+            384.5,
+            387.5,
+            230.0,
+            206.0
+        ],
+        "score": 0.92432
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000165_RGHS_jpg.rf.3950e4a5f3c537885850f40e73cf2033",
+        "category_id": 0,
+        "bbox": [
+            362.5,
+            334.0,
+            236.0,
+            255.0
+        ],
+        "score": 0.95312
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000165_RGHS_jpg.rf.3950e4a5f3c537885850f40e73cf2033",
+        "category_id": 2,
+        "bbox": [
+            507.0,
+            256.5,
+            39.0,
+            52.0
+        ],
+        "score": 0.00199
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000155_RGHS_jpg.rf.c8e164b2f04e2b84a97e7c9970084430",
+        "category_id": 0,
+        "bbox": [
+            313.5,
+            204.5,
+            233.5,
+            375.0
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000154_RGHS_jpg.rf.bf67bd0b00042142d241fc7cf1c74fd4",
+        "category_id": 0,
+        "bbox": [
+            306.5,
+            199.0,
+            239.0,
+            376.0
+        ],
+        "score": 0.91357
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000153_RGHS_jpg.rf.38fdd301ae439b95ae6d8a41ac349762",
+        "category_id": 0,
+        "bbox": [
+            299.0,
+            198.0,
+            243.0,
+            371.0
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000151_RGHS_jpg.rf.bb10e4047245df89aafc685e4ebabc54",
+        "category_id": 0,
+        "bbox": [
+            296.5,
+            179.0,
+            239.0,
+            368.5
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "9907_acanthopagrus_palmaris_f000144_RGHS_jpg.rf.0ce906cc466a49ad879f34f59ed80904",
+        "category_id": 0,
+        "bbox": [
+            342.0,
+            154.0,
+            165.0,
+            353.0
+        ],
+        "score": 0.94482
+    },
+    {
+        "image_id": "9908_Acanthopagrus_palmaris_f000020_RGHS_jpg.rf.1bc8043da9797580bfc61043cbfa4a43",
+        "category_id": 0,
+        "bbox": [
+            76.062,
+            163.75,
+            219.938,
+            193.0
+        ],
+        "score": 0.94531
+    },
+    {
+        "image_id": "9908_Epinephelus_f000170_RGHS_jpg.rf.13a40a4805119237c75bf77c7fa2cd4b",
+        "category_id": 3,
+        "bbox": [
+            427.5,
+            190.125,
+            212.5,
+            153.875
+        ],
+        "score": 0.95117
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000098_RGHS_jpg.rf.4ccd97af5786c3ebb766efac2ad97549",
+        "category_id": 0,
+        "bbox": [
+            87.75,
+            236.25,
+            171.5,
+            179.5
+        ],
+        "score": 0.94727
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000077_RGHS_jpg.rf.90b7f991e4b04b46cc620a9832e439d0",
+        "category_id": 0,
+        "bbox": [
+            92.312,
+            185.625,
+            118.938,
+            206.875
+        ],
+        "score": 0.94434
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000087_RGHS_jpg.rf.1807bc5fcfdb336c42aa271002b88017",
+        "category_id": 2,
+        "bbox": [
+            341.0,
+            477.0,
+            23.0,
+            78.0
+        ],
+        "score": 0.87158
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000087_RGHS_jpg.rf.1807bc5fcfdb336c42aa271002b88017",
+        "category_id": 2,
+        "bbox": [
+            341.25,
+            478.0,
+            23.0,
+            45.0
+        ],
+        "score": 0.00191
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000087_RGHS_jpg.rf.1807bc5fcfdb336c42aa271002b88017",
+        "category_id": 2,
+        "bbox": [
+            279.0,
+            462.0,
+            21.0,
+            54.0
+        ],
+        "score": 0.00106
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000084_RGHS_jpg.rf.a2235cd017589a8d0c82b458d02e60a8",
+        "category_id": 2,
+        "bbox": [
+            330.5,
+            473.5,
+            28.0,
+            74.0
+        ],
+        "score": 0.88623
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000083_RGHS_jpg.rf.5088c7549c61cf4361742c72184bf645",
+        "category_id": 2,
+        "bbox": [
+            329.25,
+            474.0,
+            29.0,
+            71.0
+        ],
+        "score": 0.88184
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000079_RGHS_jpg.rf.165271b1907335fea5576e4e2533919c",
+        "category_id": 2,
+        "bbox": [
+            323.5,
+            470.0,
+            27.5,
+            72.0
+        ],
+        "score": 0.85889
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000078_RGHS_jpg.rf.df1fad2b5d2010c27d8eda13e547a263",
+        "category_id": 2,
+        "bbox": [
+            321.0,
+            470.5,
+            27.0,
+            68.0
+        ],
+        "score": 0.86426
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000074_RGHS_jpg.rf.43d569c78d1ce6ef4aa77233f4536b98",
+        "category_id": 2,
+        "bbox": [
+            313.0,
+            469.25,
+            27.5,
+            67.75
+        ],
+        "score": 0.8501
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000065_RGHS_jpg.rf.341a8a59ca7dbd807af64ef6588ed9b9",
+        "category_id": 2,
+        "bbox": [
+            309.0,
+            482.0,
+            18.0,
+            65.0
+        ],
+        "score": 0.81396
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000065_RGHS_jpg.rf.341a8a59ca7dbd807af64ef6588ed9b9",
+        "category_id": 2,
+        "bbox": [
+            314.0,
+            480.0,
+            12.0,
+            50.0
+        ],
+        "score": 0.0038
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000063_RGHS_jpg.rf.93b2e13c0f4aa8b6ae855bae216e89fa",
+        "category_id": 2,
+        "bbox": [
+            308.75,
+            483.0,
+            18.5,
+            65.0
+        ],
+        "score": 0.79932
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000062_RGHS_jpg.rf.c7e252b0a034819108240de188dfaabb",
+        "category_id": 2,
+        "bbox": [
+            307.5,
+            484.25,
+            17.0,
+            61.75
+        ],
+        "score": 0.81885
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000061_RGHS_jpg.rf.251a748aa33e54afe9e1c581c3c63ad4",
+        "category_id": 2,
+        "bbox": [
+            307.5,
+            480.5,
+            18.0,
+            75.0
+        ],
+        "score": 0.81055
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000061_RGHS_jpg.rf.251a748aa33e54afe9e1c581c3c63ad4",
+        "category_id": 2,
+        "bbox": [
+            296.25,
+            479.5,
+            29.0,
+            78.0
+        ],
+        "score": 0.00118
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000061_RGHS_jpg.rf.251a748aa33e54afe9e1c581c3c63ad4",
+        "category_id": 2,
+        "bbox": [
+            229.5,
+            531.0,
+            10.0,
+            40.0
+        ],
+        "score": 0.00107
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000053_RGHS_jpg.rf.ea715b43dda65f14560078eb7571362a",
+        "category_id": 2,
+        "bbox": [
+            299.0,
+            487.5,
+            23.0,
+            65.0
+        ],
+        "score": 0.86621
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000046_RGHS_jpg.rf.31db1633f626cde96478c07c6aeade9d",
+        "category_id": 2,
+        "bbox": [
+            284.25,
+            489.5,
+            38.0,
+            72.0
+        ],
+        "score": 0.90723
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000044_RGHS_jpg.rf.3ab4c69530c13429feff6422f4a969f8",
+        "category_id": 2,
+        "bbox": [
+            281.0,
+            487.5,
+            39.0,
+            75.0
+        ],
+        "score": 0.90918
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000042_RGHS_jpg.rf.595a0693812b9e5bcb2ba705c3b6c15e",
+        "category_id": 2,
+        "bbox": [
+            277.5,
+            486.0,
+            42.0,
+            74.0
+        ],
+        "score": 0.91797
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000036_RGHS_jpg.rf.d0f07a575968d8a7b3743425ebfdf82b",
+        "category_id": 2,
+        "bbox": [
+            265.5,
+            476.25,
+            45.0,
+            79.75
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000036_RGHS_jpg.rf.d0f07a575968d8a7b3743425ebfdf82b",
+        "category_id": 2,
+        "bbox": [
+            339.75,
+            505.0,
+            19.5,
+            35.0
+        ],
+        "score": 0.05603
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000035_RGHS_jpg.rf.4fee7851b222ca2571411c6a33c1113d",
+        "category_id": 2,
+        "bbox": [
+            264.0,
+            474.0,
+            45.0,
+            80.0
+        ],
+        "score": 0.93359
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000035_RGHS_jpg.rf.4fee7851b222ca2571411c6a33c1113d",
+        "category_id": 2,
+        "bbox": [
+            323.0,
+            489.0,
+            21.0,
+            42.0
+        ],
+        "score": 0.00723
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000025_RGHS_jpg.rf.8801aa86e5dfbf4fb24b451f2af1ee41",
+        "category_id": 2,
+        "bbox": [
+            239.75,
+            467.5,
+            53.5,
+            74.0
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000018_RGHS_jpg.rf.dfafc24930f51357568c1dfc0a1fd963",
+        "category_id": 2,
+        "bbox": [
+            225.0,
+            467.25,
+            57.0,
+            67.75
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000012_RGHS_jpg.rf.6870ab9d6f134f2d772da5bb4d81e38b",
+        "category_id": 2,
+        "bbox": [
+            212.25,
+            471.5,
+            57.0,
+            67.0
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000088_RGHS_jpg.rf.394e89df889d2569ea743f0cd8b168c0",
+        "category_id": 2,
+        "bbox": [
+            343.0,
+            480.0,
+            23.0,
+            78.0
+        ],
+        "score": 0.83447
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000092_RGHS_jpg.rf.e9e90292c8e364f4103be498c4f8ca10",
+        "category_id": 2,
+        "bbox": [
+            350.5,
+            486.25,
+            24.0,
+            91.75
+        ],
+        "score": 0.8418
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000098_RGHS_jpg.rf.2f959eff8ef8c216f02dc2ef51882405",
+        "category_id": 2,
+        "bbox": [
+            350.75,
+            501.0,
+            37.0,
+            102.0
+        ],
+        "score": 0.92822
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000110_RGHS_jpg.rf.e215f56e881c6bc713f72c384b5ac239",
+        "category_id": 2,
+        "bbox": [
+            359.5,
+            535.5,
+            47.0,
+            104.5
+        ],
+        "score": 0.875
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000012_RGHS_jpg.rf.51753de870da1a1ba75a626aaa79c696",
+        "category_id": 0,
+        "bbox": [
+            491.5,
+            361.5,
+            147.0,
+            156.5
+        ],
+        "score": 0.93311
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000009_RGHS_jpg.rf.520097b388018735f57b71f7cf0e705c",
+        "category_id": 0,
+        "bbox": [
+            504.0,
+            360.5,
+            132.0,
+            151.0
+        ],
+        "score": 0.94189
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000009_RGHS_jpg.rf.520097b388018735f57b71f7cf0e705c",
+        "category_id": 0,
+        "bbox": [
+            296.5,
+            432.0,
+            61.5,
+            64.0
+        ],
+        "score": 0.00196
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000004_RGHS_jpg.rf.4a14223cd221225f8162f61770bd0cd1",
+        "category_id": 0,
+        "bbox": [
+            530.0,
+            362.0,
+            110.0,
+            129.0
+        ],
+        "score": 0.93066
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000004_RGHS_jpg.rf.4a14223cd221225f8162f61770bd0cd1",
+        "category_id": 0,
+        "bbox": [
+            294.5,
+            430.0,
+            65.0,
+            66.5
+        ],
+        "score": 0.01224
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000000_RGHS_jpg.rf.45a27c2dbfdc798f06077639bcd38bfe",
+        "category_id": 0,
+        "bbox": [
+            548.0,
+            362.0,
+            92.0,
+            127.0
+        ],
+        "score": 0.92871
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000000_RGHS_jpg.rf.45a27c2dbfdc798f06077639bcd38bfe",
+        "category_id": 0,
+        "bbox": [
+            295.5,
+            429.0,
+            60.0,
+            67.0
+        ],
+        "score": 0.00457
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000077_RGHS_jpg.rf.b60b7e0521ee9852624f9432dd1c369e",
+        "category_id": 2,
+        "bbox": [
+            204.75,
+            427.5,
+            60.75,
+            73.0
+        ],
+        "score": 0.88623
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000072_RGHS_jpg.rf.990f920838d60cf93cba02a4c0538a77",
+        "category_id": 2,
+        "bbox": [
+            217.375,
+            418.0,
+            58.125,
+            79.0
+        ],
+        "score": 0.88232
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000072_RGHS_jpg.rf.990f920838d60cf93cba02a4c0538a77",
+        "category_id": 2,
+        "bbox": [
+            359.0,
+            556.0,
+            10.0,
+            36.0
+        ],
+        "score": 0.00104
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000070_RGHS_jpg.rf.e7a8fc49c1a43c82ea8c3c33850a5782",
+        "category_id": 2,
+        "bbox": [
+            222.0,
+            417.0,
+            59.5,
+            75.0
+        ],
+        "score": 0.88232
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000066_RGHS_jpg.rf.c85a64f718a0a48f7da7a238dc553870",
+        "category_id": 2,
+        "bbox": [
+            229.875,
+            414.5,
+            57.125,
+            74.0
+        ],
+        "score": 0.89404
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000062_RGHS_jpg.rf.e6aae418f7d3c656ef6d63b83f509dcc",
+        "category_id": 2,
+        "bbox": [
+            240.25,
+            414.5,
+            58.0,
+            71.5
+        ],
+        "score": 0.89404
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000010_RGHS_jpg.rf.72da9b9b19ca510001e9751d960e9c44",
+        "category_id": 2,
+        "bbox": [
+            209.0,
+            473.5,
+            56.75,
+            66.0
+        ],
+        "score": 0.91162
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000060_RGHS_jpg.rf.f856847656cf004522141399eb7a72ba",
+        "category_id": 2,
+        "bbox": [
+            243.5,
+            413.5,
+            58.0,
+            71.0
+        ],
+        "score": 0.9126
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000046_RGHS_jpg.rf.5bfcdd07e3ec40bf23a36910fb51a962",
+        "category_id": 2,
+        "bbox": [
+            272.0,
+            421.75,
+            65.0,
+            72.5
+        ],
+        "score": 0.90967
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000045_RGHS_jpg.rf.62a128ee5c797440a7696ef234ae90db",
+        "category_id": 2,
+        "bbox": [
+            273.25,
+            423.5,
+            66.0,
+            72.0
+        ],
+        "score": 0.88867
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000045_RGHS_jpg.rf.62a128ee5c797440a7696ef234ae90db",
+        "category_id": 2,
+        "bbox": [
+            359.5,
+            558.0,
+            10.0,
+            36.0
+        ],
+        "score": 0.0051
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000038_RGHS_jpg.rf.d8e0191cdd66d9f29be249408f199187",
+        "category_id": 2,
+        "bbox": [
+            294.0,
+            430.5,
+            64.0,
+            76.5
+        ],
+        "score": 0.89697
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000029_RGHS_jpg.rf.3ab2189c42140eb41bb71607d6015722",
+        "category_id": 2,
+        "bbox": [
+            318.0,
+            444.0,
+            54.0,
+            79.5
+        ],
+        "score": 0.89551
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000019_RGHS_jpg.rf.c4406eb3fdc5063e088d6732b662720d",
+        "category_id": 2,
+        "bbox": [
+            346.0,
+            465.0,
+            56.5,
+            86.0
+        ],
+        "score": 0.92529
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000008_RGHS_jpg.rf.067bf87bd7ad404fda17f54ac9d74dfe",
+        "category_id": 2,
+        "bbox": [
+            371.0,
+            502.0,
+            56.5,
+            90.0
+        ],
+        "score": 0.85693
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000007_RGHS_jpg.rf.cd91ec0480b6f99051b7a7201dbd7f99",
+        "category_id": 2,
+        "bbox": [
+            374.5,
+            507.0,
+            55.0,
+            88.0
+        ],
+        "score": 0.87646
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000007_RGHS_jpg.rf.cd91ec0480b6f99051b7a7201dbd7f99",
+        "category_id": 2,
+        "bbox": [
+            387.0,
+            606.0,
+            29.0,
+            34.0
+        ],
+        "score": 0.00216
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000000_RGHS_jpg.rf.142a29e8e4f19f010ae9989a360be867",
+        "category_id": 2,
+        "bbox": [
+            393.0,
+            536.0,
+            53.5,
+            95.0
+        ],
+        "score": 0.87598
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000115_RGHS_jpg.rf.add1be848020bbc5676b360917b768b7",
+        "category_id": 2,
+        "bbox": [
+            369.25,
+            566.0,
+            40.5,
+            74.0
+        ],
+        "score": 0.91846
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_3_f000049_RGHS_jpg.rf.4ffc9978a8fd67616eb7c282e6a128d6",
+        "category_id": 2,
+        "bbox": [
+            265.5,
+            419.0,
+            61.5,
+            73.0
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000025_RGHS_jpg.rf.e3f1d2d957a6de3f75b1bce9f391cd52",
+        "category_id": 0,
+        "bbox": [
+            467.0,
+            354.0,
+            151.0,
+            157.0
+        ],
+        "score": 0.93066
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000004_RGHS_jpg.rf.652a3c50f20287eacdc048c7ca5314a2",
+        "category_id": 2,
+        "bbox": [
+            206.0,
+            483.5,
+            48.0,
+            68.0
+        ],
+        "score": 0.92236
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000196_RGHS_jpg.rf.b23e2f9d496ead56fae1728a8fdcc149",
+        "category_id": 1,
+        "bbox": [
+            406.5,
+            79.312,
+            74.0,
+            112.938
+        ],
+        "score": 0.86523
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000083_RGHS_jpg.rf.e6911ba646f935e07a88b8bffe9bd948",
+        "category_id": 1,
+        "bbox": [
+            396.0,
+            72.875,
+            115.5,
+            111.5
+        ],
+        "score": 0.91504
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000083_RGHS_jpg.rf.e6911ba646f935e07a88b8bffe9bd948",
+        "category_id": 1,
+        "bbox": [
+            355.75,
+            89.125,
+            37.0,
+            90.25
+        ],
+        "score": 0.08124
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000083_RGHS_jpg.rf.e6911ba646f935e07a88b8bffe9bd948",
+        "category_id": 1,
+        "bbox": [
+            516.5,
+            198.75,
+            72.0,
+            79.5
+        ],
+        "score": 0.00819
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000083_RGHS_jpg.rf.e6911ba646f935e07a88b8bffe9bd948",
+        "category_id": 1,
+        "bbox": [
+            312.0,
+            0.0,
+            49.0,
+            58.562
+        ],
+        "score": 0.0028
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000083_RGHS_jpg.rf.e6911ba646f935e07a88b8bffe9bd948",
+        "category_id": 1,
+        "bbox": [
+            357.5,
+            132.25,
+            34.0,
+            43.5
+        ],
+        "score": 0.00139
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000083_RGHS_jpg.rf.e6911ba646f935e07a88b8bffe9bd948",
+        "category_id": 2,
+        "bbox": [
+            279.0,
+            466.0,
+            14.5,
+            55.0
+        ],
+        "score": 0.00138
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000080_RGHS_jpg.rf.37d7e0cc409aa3f554f06bbc7bd6c801",
+        "category_id": 1,
+        "bbox": [
+            414.0,
+            58.375,
+            124.0,
+            127.0
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000080_RGHS_jpg.rf.37d7e0cc409aa3f554f06bbc7bd6c801",
+        "category_id": 1,
+        "bbox": [
+            519.0,
+            198.5,
+            72.0,
+            79.75
+        ],
+        "score": 0.00472
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000080_RGHS_jpg.rf.37d7e0cc409aa3f554f06bbc7bd6c801",
+        "category_id": 1,
+        "bbox": [
+            317.5,
+            0.0,
+            48.0,
+            46.688
+        ],
+        "score": 0.00154
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000078_RGHS_jpg.rf.b7bf42120d3fd2d0fbb37e0fa60b3f1e",
+        "category_id": 1,
+        "bbox": [
+            429.5,
+            59.812,
+            135.0,
+            130.938
+        ],
+        "score": 0.91846
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000078_RGHS_jpg.rf.b7bf42120d3fd2d0fbb37e0fa60b3f1e",
+        "category_id": 1,
+        "bbox": [
+            523.0,
+            193.75,
+            82.0,
+            91.5
+        ],
+        "score": 0.33032
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000078_RGHS_jpg.rf.b7bf42120d3fd2d0fbb37e0fa60b3f1e",
+        "category_id": 1,
+        "bbox": [
+            320.25,
+            0.0,
+            45.0,
+            35.25
+        ],
+        "score": 0.05835
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000078_RGHS_jpg.rf.b7bf42120d3fd2d0fbb37e0fa60b3f1e",
+        "category_id": 1,
+        "bbox": [
+            361.75,
+            85.0,
+            38.0,
+            87.5
+        ],
+        "score": 0.00664
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000078_RGHS_jpg.rf.b7bf42120d3fd2d0fbb37e0fa60b3f1e",
+        "category_id": 2,
+        "bbox": [
+            358.0,
+            548.5,
+            13.0,
+            49.0
+        ],
+        "score": 0.00578
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000078_RGHS_jpg.rf.b7bf42120d3fd2d0fbb37e0fa60b3f1e",
+        "category_id": 1,
+        "bbox": [
+            524.0,
+            214.0,
+            116.0,
+            86.0
+        ],
+        "score": 0.00107
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000077_RGHS_jpg.rf.e8ed933e27c5f06aa2e5731360768639",
+        "category_id": 1,
+        "bbox": [
+            436.25,
+            60.625,
+            139.75,
+            125.0
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000077_RGHS_jpg.rf.e8ed933e27c5f06aa2e5731360768639",
+        "category_id": 1,
+        "bbox": [
+            525.0,
+            193.25,
+            70.0,
+            78.0
+        ],
+        "score": 0.76221
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000077_RGHS_jpg.rf.e8ed933e27c5f06aa2e5731360768639",
+        "category_id": 1,
+        "bbox": [
+            319.75,
+            0.0,
+            46.5,
+            36.688
+        ],
+        "score": 0.01277
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000077_RGHS_jpg.rf.e8ed933e27c5f06aa2e5731360768639",
+        "category_id": 1,
+        "bbox": [
+            367.5,
+            77.312,
+            32.0,
+            92.938
+        ],
+        "score": 0.00874
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000077_RGHS_jpg.rf.e8ed933e27c5f06aa2e5731360768639",
+        "category_id": 1,
+        "bbox": [
+            330.25,
+            0.156,
+            38.0,
+            33.938
+        ],
+        "score": 0.00685
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000077_RGHS_jpg.rf.e8ed933e27c5f06aa2e5731360768639",
+        "category_id": 1,
+        "bbox": [
+            533.0,
+            225.0,
+            107.0,
+            74.5
+        ],
+        "score": 0.00222
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000075_RGHS_jpg.rf.5c063962655c06427abaa45ff0add32d",
+        "category_id": 1,
+        "bbox": [
+            447.5,
+            57.0,
+            144.0,
+            125.0
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000075_RGHS_jpg.rf.5c063962655c06427abaa45ff0add32d",
+        "category_id": 1,
+        "bbox": [
+            533.0,
+            188.0,
+            68.0,
+            82.5
+        ],
+        "score": 0.8623
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000075_RGHS_jpg.rf.5c063962655c06427abaa45ff0add32d",
+        "category_id": 1,
+        "bbox": [
+            416.0,
+            143.0,
+            31.0,
+            81.0
+        ],
+        "score": 0.00619
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000075_RGHS_jpg.rf.5c063962655c06427abaa45ff0add32d",
+        "category_id": 1,
+        "bbox": [
+            374.5,
+            56.5,
+            31.5,
+            107.75
+        ],
+        "score": 0.0019
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000072_RGHS_jpg.rf.f9d564650d61c629c173075c4c014a91",
+        "category_id": 1,
+        "bbox": [
+            464.0,
+            50.625,
+            145.0,
+            123.25
+        ],
+        "score": 0.89893
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000072_RGHS_jpg.rf.f9d564650d61c629c173075c4c014a91",
+        "category_id": 1,
+        "bbox": [
+            543.0,
+            184.0,
+            77.0,
+            83.0
+        ],
+        "score": 0.75635
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000072_RGHS_jpg.rf.f9d564650d61c629c173075c4c014a91",
+        "category_id": 1,
+        "bbox": [
+            424.0,
+            143.5,
+            39.0,
+            79.0
+        ],
+        "score": 0.73389
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000072_RGHS_jpg.rf.f9d564650d61c629c173075c4c014a91",
+        "category_id": 1,
+        "bbox": [
+            372.0,
+            54.25,
+            37.0,
+            100.75
+        ],
+        "score": 0.33643
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000072_RGHS_jpg.rf.f9d564650d61c629c173075c4c014a91",
+        "category_id": 2,
+        "bbox": [
+            157.25,
+            405.5,
+            62.5,
+            65.0
+        ],
+        "score": 0.00539
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000065_RGHS_jpg.rf.92b8bd2d3478426552d16a0fa555e4c2",
+        "category_id": 1,
+        "bbox": [
+            518.5,
+            44.75,
+            121.0,
+            120.0
+        ],
+        "score": 0.92285
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000065_RGHS_jpg.rf.92b8bd2d3478426552d16a0fa555e4c2",
+        "category_id": 1,
+        "bbox": [
+            563.0,
+            178.25,
+            77.0,
+            79.5
+        ],
+        "score": 0.63525
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000065_RGHS_jpg.rf.92b8bd2d3478426552d16a0fa555e4c2",
+        "category_id": 2,
+        "bbox": [
+            358.0,
+            552.5,
+            11.0,
+            38.0
+        ],
+        "score": 0.07159
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000065_RGHS_jpg.rf.92b8bd2d3478426552d16a0fa555e4c2",
+        "category_id": 1,
+        "bbox": [
+            385.0,
+            42.531,
+            32.0,
+            100.969
+        ],
+        "score": 0.02542
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000065_RGHS_jpg.rf.92b8bd2d3478426552d16a0fa555e4c2",
+        "category_id": 4,
+        "bbox": [
+            562.0,
+            177.5,
+            78.0,
+            80.5
+        ],
+        "score": 0.00288
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000065_RGHS_jpg.rf.92b8bd2d3478426552d16a0fa555e4c2",
+        "category_id": 1,
+        "bbox": [
+            430.25,
+            124.0,
+            40.5,
+            81.5
+        ],
+        "score": 0.00187
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000062_RGHS_jpg.rf.ade21ddfacc9ae19780253c3671007c0",
+        "category_id": 1,
+        "bbox": [
+            542.0,
+            43.375,
+            98.0,
+            121.375
+        ],
+        "score": 0.91895
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000062_RGHS_jpg.rf.ade21ddfacc9ae19780253c3671007c0",
+        "category_id": 1,
+        "bbox": [
+            390.0,
+            33.25,
+            44.0,
+            103.5
+        ],
+        "score": 0.87744
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000062_RGHS_jpg.rf.ade21ddfacc9ae19780253c3671007c0",
+        "category_id": 1,
+        "bbox": [
+            571.0,
+            176.0,
+            68.0,
+            80.0
+        ],
+        "score": 0.1925
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000062_RGHS_jpg.rf.ade21ddfacc9ae19780253c3671007c0",
+        "category_id": 1,
+        "bbox": [
+            437.0,
+            115.5,
+            39.0,
+            89.0
+        ],
+        "score": 0.00228
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000062_RGHS_jpg.rf.ade21ddfacc9ae19780253c3671007c0",
+        "category_id": 4,
+        "bbox": [
+            570.0,
+            176.0,
+            70.0,
+            79.5
+        ],
+        "score": 0.00169
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000048_RGHS_jpg.rf.8caf873fb95bc1c5b5e26cadc2e4a4e8",
+        "category_id": 1,
+        "bbox": [
+            409.0,
+            17.094,
+            95.5,
+            117.031
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000048_RGHS_jpg.rf.8caf873fb95bc1c5b5e26cadc2e4a4e8",
+        "category_id": 1,
+        "bbox": [
+            263.5,
+            0.062,
+            60.0,
+            81.062
+        ],
+        "score": 0.86816
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000048_RGHS_jpg.rf.8caf873fb95bc1c5b5e26cadc2e4a4e8",
+        "category_id": 1,
+        "bbox": [
+            463.0,
+            113.0,
+            49.0,
+            103.0
+        ],
+        "score": 0.78906
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000045_RGHS_jpg.rf.3738faab54ecf0b8bafc5f5271ceee4c",
+        "category_id": 1,
+        "bbox": [
+            412.5,
+            9.219,
+            91.5,
+            118.531
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000045_RGHS_jpg.rf.3738faab54ecf0b8bafc5f5271ceee4c",
+        "category_id": 1,
+        "bbox": [
+            471.0,
+            111.688,
+            65.0,
+            96.062
+        ],
+        "score": 0.88232
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000045_RGHS_jpg.rf.3738faab54ecf0b8bafc5f5271ceee4c",
+        "category_id": 1,
+        "bbox": [
+            251.0,
+            0.625,
+            52.0,
+            65.75
+        ],
+        "score": 0.87061
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000041_RGHS_jpg.rf.57526ce9b6665b4ad9ddbafe9d887d93",
+        "category_id": 1,
+        "bbox": [
+            423.5,
+            0.0,
+            109.5,
+            124.0
+        ],
+        "score": 0.90967
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000041_RGHS_jpg.rf.57526ce9b6665b4ad9ddbafe9d887d93",
+        "category_id": 1,
+        "bbox": [
+            222.0,
+            0.0,
+            65.0,
+            55.5
+        ],
+        "score": 0.89111
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000041_RGHS_jpg.rf.57526ce9b6665b4ad9ddbafe9d887d93",
+        "category_id": 1,
+        "bbox": [
+            472.5,
+            114.75,
+            72.0,
+            90.5
+        ],
+        "score": 0.88477
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000038_RGHS_jpg.rf.6d4a71bcf51ed738f4c4363e72763d33",
+        "category_id": 1,
+        "bbox": [
+            441.25,
+            0.094,
+            143.75,
+            126.281
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000038_RGHS_jpg.rf.6d4a71bcf51ed738f4c4363e72763d33",
+        "category_id": 1,
+        "bbox": [
+            476.0,
+            110.0,
+            62.0,
+            94.25
+        ],
+        "score": 0.89307
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000038_RGHS_jpg.rf.6d4a71bcf51ed738f4c4363e72763d33",
+        "category_id": 1,
+        "bbox": [
+            204.25,
+            0.0,
+            67.5,
+            46.875
+        ],
+        "score": 0.84277
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000035_RGHS_jpg.rf.b16a2fc9a0cf254937b6f9961fa4fbf9",
+        "category_id": 1,
+        "bbox": [
+            448.25,
+            0.125,
+            147.75,
+            120.625
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000035_RGHS_jpg.rf.b16a2fc9a0cf254937b6f9961fa4fbf9",
+        "category_id": 1,
+        "bbox": [
+            483.5,
+            98.812,
+            67.0,
+            100.938
+        ],
+        "score": 0.90137
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000035_RGHS_jpg.rf.b16a2fc9a0cf254937b6f9961fa4fbf9",
+        "category_id": 1,
+        "bbox": [
+            192.0,
+            0.078,
+            61.25,
+            32.859
+        ],
+        "score": 0.81738
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000034_RGHS_jpg.rf.f08520fcc3f8823c43251f36170477df",
+        "category_id": 1,
+        "bbox": [
+            451.0,
+            0.0,
+            147.0,
+            114.625
+        ],
+        "score": 0.91357
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000034_RGHS_jpg.rf.f08520fcc3f8823c43251f36170477df",
+        "category_id": 1,
+        "bbox": [
+            484.75,
+            99.125,
+            70.25,
+            99.75
+        ],
+        "score": 0.88867
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000034_RGHS_jpg.rf.f08520fcc3f8823c43251f36170477df",
+        "category_id": 1,
+        "bbox": [
+            183.0,
+            0.031,
+            62.5,
+            30.219
+        ],
+        "score": 0.81982
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000030_RGHS_jpg.rf.d33fedc9c5ae743238602ec0f1ec95b4",
+        "category_id": 1,
+        "bbox": [
+            478.0,
+            0.0,
+            160.0,
+            104.875
+        ],
+        "score": 0.92725
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000030_RGHS_jpg.rf.d33fedc9c5ae743238602ec0f1ec95b4",
+        "category_id": 1,
+        "bbox": [
+            497.5,
+            91.062,
+            87.0,
+            101.938
+        ],
+        "score": 0.92236
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000030_RGHS_jpg.rf.d33fedc9c5ae743238602ec0f1ec95b4",
+        "category_id": 1,
+        "bbox": [
+            276.5,
+            136.75,
+            38.5,
+            91.25
+        ],
+        "score": 0.00461
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000019_RGHS_jpg.rf.b35c05f0af97ea3d38f05a47047b20b4",
+        "category_id": 1,
+        "bbox": [
+            535.0,
+            56.438,
+            87.0,
+            114.562
+        ],
+        "score": 0.9126
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000019_RGHS_jpg.rf.b35c05f0af97ea3d38f05a47047b20b4",
+        "category_id": 1,
+        "bbox": [
+            579.5,
+            0.125,
+            60.5,
+            69.875
+        ],
+        "score": 0.89746
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000019_RGHS_jpg.rf.b35c05f0af97ea3d38f05a47047b20b4",
+        "category_id": 1,
+        "bbox": [
+            292.75,
+            74.375,
+            42.0,
+            116.75
+        ],
+        "score": 0.03555
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000019_RGHS_jpg.rf.b35c05f0af97ea3d38f05a47047b20b4",
+        "category_id": 1,
+        "bbox": [
+            614.0,
+            212.875,
+            26.0,
+            72.125
+        ],
+        "score": 0.00255
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000017_RGHS_jpg.rf.730877c1d8de76c6ebcfef8ae4313045",
+        "category_id": 1,
+        "bbox": [
+            546.0,
+            43.5,
+            94.0,
+            121.25
+        ],
+        "score": 0.91113
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000017_RGHS_jpg.rf.730877c1d8de76c6ebcfef8ae4313045",
+        "category_id": 1,
+        "bbox": [
+            296.0,
+            79.375,
+            47.0,
+            111.25
+        ],
+        "score": 0.60693
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000017_RGHS_jpg.rf.730877c1d8de76c6ebcfef8ae4313045",
+        "category_id": 1,
+        "bbox": [
+            605.5,
+            0.234,
+            34.0,
+            55.766
+        ],
+        "score": 0.52734
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000017_RGHS_jpg.rf.730877c1d8de76c6ebcfef8ae4313045",
+        "category_id": 1,
+        "bbox": [
+            615.5,
+            211.875,
+            24.5,
+            72.125
+        ],
+        "score": 0.00394
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000012_RGHS_jpg.rf.dff55985147498e009df62183316f325",
+        "category_id": 1,
+        "bbox": [
+            572.5,
+            25.75,
+            67.5,
+            127.25
+        ],
+        "score": 0.89258
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000012_RGHS_jpg.rf.dff55985147498e009df62183316f325",
+        "category_id": 1,
+        "bbox": [
+            303.5,
+            77.125,
+            59.0,
+            107.0
+        ],
+        "score": 0.89014
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000007_RGHS_jpg.rf.1c320bc7ac4804c38e651de2605c9738",
+        "category_id": 1,
+        "bbox": [
+            599.0,
+            34.219,
+            41.0,
+            108.531
+        ],
+        "score": 0.8916
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000007_RGHS_jpg.rf.1c320bc7ac4804c38e651de2605c9738",
+        "category_id": 1,
+        "bbox": [
+            278.0,
+            54.75,
+            35.5,
+            89.375
+        ],
+        "score": 0.45508
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000007_RGHS_jpg.rf.1c320bc7ac4804c38e651de2605c9738",
+        "category_id": 1,
+        "bbox": [
+            409.0,
+            211.5,
+            44.5,
+            90.0
+        ],
+        "score": 0.44556
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000007_RGHS_jpg.rf.1c320bc7ac4804c38e651de2605c9738",
+        "category_id": 1,
+        "bbox": [
+            310.0,
+            53.375,
+            39.0,
+            135.0
+        ],
+        "score": 0.06732
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000007_RGHS_jpg.rf.1c320bc7ac4804c38e651de2605c9738",
+        "category_id": 1,
+        "bbox": [
+            310.0,
+            112.0,
+            39.0,
+            76.0
+        ],
+        "score": 0.05624
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000088_RGHS_jpg.rf.d73eefb02888677c93169247b4b8a2d2",
+        "category_id": 1,
+        "bbox": [
+            371.5,
+            78.25,
+            128.0,
+            118.25
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000088_RGHS_jpg.rf.d73eefb02888677c93169247b4b8a2d2",
+        "category_id": 1,
+        "bbox": [
+            502.0,
+            193.75,
+            62.0,
+            90.5
+        ],
+        "score": 0.32007
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000092_RGHS_jpg.rf.0e219cf52bce37241f96fb6f8e2e1141",
+        "category_id": 1,
+        "bbox": [
+            345.5,
+            81.0,
+            117.5,
+            114.5
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000092_RGHS_jpg.rf.0e219cf52bce37241f96fb6f8e2e1141",
+        "category_id": 1,
+        "bbox": [
+            288.75,
+            0.25,
+            49.5,
+            94.312
+        ],
+        "score": 0.47266
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000106_RGHS_jpg.rf.d17495bc64f25b203bdbd3d0a4380b71",
+        "category_id": 1,
+        "bbox": [
+            299.5,
+            89.5,
+            91.0,
+            99.0
+        ],
+        "score": 0.88623
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000106_RGHS_jpg.rf.d17495bc64f25b203bdbd3d0a4380b71",
+        "category_id": 1,
+        "bbox": [
+            614.0,
+            108.438,
+            26.0,
+            101.062
+        ],
+        "score": 0.42529
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000106_RGHS_jpg.rf.d17495bc64f25b203bdbd3d0a4380b71",
+        "category_id": 1,
+        "bbox": [
+            274.25,
+            18.75,
+            61.0,
+            97.25
+        ],
+        "score": 0.02811
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000112_RGHS_jpg.rf.23dc67f7b0a8a7973c54e42852b36cd6",
+        "category_id": 1,
+        "bbox": [
+            593.0,
+            90.875,
+            47.0,
+            125.25
+        ],
+        "score": 0.88818
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000112_RGHS_jpg.rf.23dc67f7b0a8a7973c54e42852b36cd6",
+        "category_id": 1,
+        "bbox": [
+            285.5,
+            91.562,
+            89.0,
+            96.438
+        ],
+        "score": 0.85107
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000189_RGHS_jpg.rf.31e3313fd41004615001cd8e4982c4a6",
+        "category_id": 1,
+        "bbox": [
+            425.5,
+            78.312,
+            70.0,
+            111.438
+        ],
+        "score": 0.84912
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000181_RGHS_jpg.rf.e5ffc1f9bbeb47f1eed3f3daf34d4fbb",
+        "category_id": 1,
+        "bbox": [
+            445.0,
+            71.562,
+            93.0,
+            116.938
+        ],
+        "score": 0.89697
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000180_RGHS_jpg.rf.1598060ae1b45e08873a5518b7a4cc34",
+        "category_id": 1,
+        "bbox": [
+            450.5,
+            69.0,
+            93.0,
+            118.5
+        ],
+        "score": 0.89844
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000172_RGHS_jpg.rf.2d62a76660028a0300106fcf7ff4df2a",
+        "category_id": 1,
+        "bbox": [
+            488.75,
+            55.875,
+            146.25,
+            143.0
+        ],
+        "score": 0.9209
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000172_RGHS_jpg.rf.2d62a76660028a0300106fcf7ff4df2a",
+        "category_id": 1,
+        "bbox": [
+            430.0,
+            130.75,
+            72.5,
+            102.5
+        ],
+        "score": 0.81299
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000161_RGHS_jpg.rf.1b0d704ac082c348be6e89393a063124",
+        "category_id": 1,
+        "bbox": [
+            517.5,
+            89.188,
+            122.5,
+            125.062
+        ],
+        "score": 0.89111
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000161_RGHS_jpg.rf.1b0d704ac082c348be6e89393a063124",
+        "category_id": 1,
+        "bbox": [
+            568.0,
+            33.25,
+            72.0,
+            122.375
+        ],
+        "score": 0.88428
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000161_RGHS_jpg.rf.1b0d704ac082c348be6e89393a063124",
+        "category_id": 1,
+        "bbox": [
+            449.0,
+            94.938,
+            63.0,
+            126.562
+        ],
+        "score": 0.87256
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000157_RGHS_jpg.rf.cfbea5331fe1bb15cdf58e9a29caa869",
+        "category_id": 1,
+        "bbox": [
+            536.0,
+            91.75,
+            104.0,
+            120.0
+        ],
+        "score": 0.91357
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000157_RGHS_jpg.rf.cfbea5331fe1bb15cdf58e9a29caa869",
+        "category_id": 1,
+        "bbox": [
+            463.5,
+            93.312,
+            68.0,
+            125.438
+        ],
+        "score": 0.88232
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000157_RGHS_jpg.rf.cfbea5331fe1bb15cdf58e9a29caa869",
+        "category_id": 1,
+        "bbox": [
+            597.0,
+            39.625,
+            43.0,
+            103.25
+        ],
+        "score": 0.87891
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000154_RGHS_jpg.rf.224c421c1690e236034d4b7a0d1ae3c2",
+        "category_id": 1,
+        "bbox": [
+            554.5,
+            90.0,
+            85.5,
+            122.75
+        ],
+        "score": 0.89844
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000154_RGHS_jpg.rf.224c421c1690e236034d4b7a0d1ae3c2",
+        "category_id": 1,
+        "bbox": [
+            471.75,
+            97.25,
+            78.25,
+            123.25
+        ],
+        "score": 0.8916
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000154_RGHS_jpg.rf.224c421c1690e236034d4b7a0d1ae3c2",
+        "category_id": 1,
+        "bbox": [
+            624.0,
+            52.75,
+            16.0,
+            85.0
+        ],
+        "score": 0.4668
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000154_RGHS_jpg.rf.224c421c1690e236034d4b7a0d1ae3c2",
+        "category_id": 1,
+        "bbox": [
+            628.0,
+            29.344,
+            12.0,
+            111.031
+        ],
+        "score": 0.00819
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000154_RGHS_jpg.rf.224c421c1690e236034d4b7a0d1ae3c2",
+        "category_id": 1,
+        "bbox": [
+            640.0,
+            56.75,
+            0.0,
+            85.25
+        ],
+        "score": 0.00723
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000154_RGHS_jpg.rf.224c421c1690e236034d4b7a0d1ae3c2",
+        "category_id": 1,
+        "bbox": [
+            618.0,
+            58.5,
+            22.0,
+            76.875
+        ],
+        "score": 0.00128
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000149_RGHS_jpg.rf.70229982ff669230c9a14ece9c7a28c1",
+        "category_id": 1,
+        "bbox": [
+            580.0,
+            88.5,
+            60.0,
+            119.0
+        ],
+        "score": 0.91113
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000149_RGHS_jpg.rf.70229982ff669230c9a14ece9c7a28c1",
+        "category_id": 1,
+        "bbox": [
+            480.0,
+            94.25,
+            95.0,
+            126.5
+        ],
+        "score": 0.90527
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000149_RGHS_jpg.rf.70229982ff669230c9a14ece9c7a28c1",
+        "category_id": 1,
+        "bbox": [
+            539.0,
+            190.75,
+            54.0,
+            65.0
+        ],
+        "score": 0.00101
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000144_RGHS_jpg.rf.d740f91162bafcfe9495bf46c91a26db",
+        "category_id": 1,
+        "bbox": [
+            487.5,
+            93.375,
+            82.0,
+            124.75
+        ],
+        "score": 0.90869
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000144_RGHS_jpg.rf.d740f91162bafcfe9495bf46c91a26db",
+        "category_id": 1,
+        "bbox": [
+            604.0,
+            96.562,
+            36.0,
+            103.938
+        ],
+        "score": 0.83203
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000144_RGHS_jpg.rf.d740f91162bafcfe9495bf46c91a26db",
+        "category_id": 1,
+        "bbox": [
+            549.0,
+            186.25,
+            73.0,
+            68.0
+        ],
+        "score": 0.00259
+    },
+    {
+        "image_id": "7117_Chaetodon_vagabundus_2_f000002_RGHS_jpg.rf.89f4c77f8eb83d4976a6c3475bdf0565",
+        "category_id": 2,
+        "bbox": [
+            202.75,
+            485.5,
+            47.5,
+            71.0
+        ],
+        "score": 0.9248
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000143_RGHS_jpg.rf.b928ea9f1d997f47c40db4e956b4347b",
+        "category_id": 1,
+        "bbox": [
+            489.5,
+            89.75,
+            81.0,
+            127.25
+        ],
+        "score": 0.90527
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000143_RGHS_jpg.rf.b928ea9f1d997f47c40db4e956b4347b",
+        "category_id": 1,
+        "bbox": [
+            610.0,
+            100.438,
+            30.0,
+            93.062
+        ],
+        "score": 0.76367
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000143_RGHS_jpg.rf.b928ea9f1d997f47c40db4e956b4347b",
+        "category_id": 2,
+        "bbox": [
+            309.5,
+            507.0,
+            10.0,
+            40.0
+        ],
+        "score": 0.08417
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000143_RGHS_jpg.rf.b928ea9f1d997f47c40db4e956b4347b",
+        "category_id": 1,
+        "bbox": [
+            553.0,
+            183.75,
+            72.0,
+            72.75
+        ],
+        "score": 0.00327
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000135_RGHS_jpg.rf.cd6066f8278f280f5aa50f0590901d2e",
+        "category_id": 1,
+        "bbox": [
+            522.0,
+            74.188,
+            98.0,
+            138.062
+        ],
+        "score": 0.89502
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000135_RGHS_jpg.rf.cd6066f8278f280f5aa50f0590901d2e",
+        "category_id": 1,
+        "bbox": [
+            232.5,
+            55.25,
+            41.5,
+            78.75
+        ],
+        "score": 0.01234
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000135_RGHS_jpg.rf.cd6066f8278f280f5aa50f0590901d2e",
+        "category_id": 1,
+        "bbox": [
+            574.0,
+            181.5,
+            66.0,
+            79.0
+        ],
+        "score": 0.00236
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000133_RGHS_jpg.rf.d6d67768da19563dccb45d0cf8163e8b",
+        "category_id": 1,
+        "bbox": [
+            528.0,
+            76.688,
+            102.0,
+            135.062
+        ],
+        "score": 0.90479
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000133_RGHS_jpg.rf.d6d67768da19563dccb45d0cf8163e8b",
+        "category_id": 2,
+        "bbox": [
+            293.0,
+            481.5,
+            11.0,
+            44.0
+        ],
+        "score": 0.00204
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000133_RGHS_jpg.rf.d6d67768da19563dccb45d0cf8163e8b",
+        "category_id": 1,
+        "bbox": [
+            584.0,
+            182.0,
+            56.0,
+            64.5
+        ],
+        "score": 0.00155
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000133_RGHS_jpg.rf.d6d67768da19563dccb45d0cf8163e8b",
+        "category_id": 1,
+        "bbox": [
+            573.0,
+            185.5,
+            66.0,
+            94.75
+        ],
+        "score": 0.00152
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000132_RGHS_jpg.rf.efc7ad2b196be6242c0c8d156bf1accd",
+        "category_id": 1,
+        "bbox": [
+            531.0,
+            78.25,
+            100.0,
+            132.25
+        ],
+        "score": 0.90967
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000132_RGHS_jpg.rf.efc7ad2b196be6242c0c8d156bf1accd",
+        "category_id": 1,
+        "bbox": [
+            588.0,
+            180.25,
+            52.0,
+            64.0
+        ],
+        "score": 0.00306
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000132_RGHS_jpg.rf.efc7ad2b196be6242c0c8d156bf1accd",
+        "category_id": 1,
+        "bbox": [
+            234.75,
+            55.625,
+            54.5,
+            83.75
+        ],
+        "score": 0.00114
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000131_RGHS_jpg.rf.1e0d912e53bf299b492ab24ee78516ad",
+        "category_id": 1,
+        "bbox": [
+            533.0,
+            78.0,
+            99.0,
+            133.0
+        ],
+        "score": 0.90918
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000131_RGHS_jpg.rf.1e0d912e53bf299b492ab24ee78516ad",
+        "category_id": 1,
+        "bbox": [
+            591.5,
+            178.5,
+            48.5,
+            68.25
+        ],
+        "score": 0.01678
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000131_RGHS_jpg.rf.1e0d912e53bf299b492ab24ee78516ad",
+        "category_id": 1,
+        "bbox": [
+            239.5,
+            54.0,
+            51.0,
+            79.75
+        ],
+        "score": 0.01508
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000131_RGHS_jpg.rf.1e0d912e53bf299b492ab24ee78516ad",
+        "category_id": 1,
+        "bbox": [
+            247.5,
+            101.375,
+            34.0,
+            90.75
+        ],
+        "score": 0.00166
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000130_RGHS_jpg.rf.dca5848ca2f28ac3e90d772578a535e0",
+        "category_id": 1,
+        "bbox": [
+            535.0,
+            80.125,
+            96.0,
+            130.25
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000129_RGHS_jpg.rf.3c2e885b4079fb0c1ffcac73f7f0b12a",
+        "category_id": 1,
+        "bbox": [
+            537.0,
+            79.25,
+            94.0,
+            131.0
+        ],
+        "score": 0.90723
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000129_RGHS_jpg.rf.3c2e885b4079fb0c1ffcac73f7f0b12a",
+        "category_id": 1,
+        "bbox": [
+            243.5,
+            102.25,
+            53.0,
+            72.75
+        ],
+        "score": 0.02733
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000129_RGHS_jpg.rf.3c2e885b4079fb0c1ffcac73f7f0b12a",
+        "category_id": 1,
+        "bbox": [
+            244.5,
+            101.375,
+            54.0,
+            99.5
+        ],
+        "score": 0.01142
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000129_RGHS_jpg.rf.3c2e885b4079fb0c1ffcac73f7f0b12a",
+        "category_id": 1,
+        "bbox": [
+            241.25,
+            50.75,
+            51.0,
+            83.25
+        ],
+        "score": 0.00136
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000125_RGHS_jpg.rf.9e6f8c6fa4c19d245a9c689e04b83f30",
+        "category_id": 1,
+        "bbox": [
+            550.0,
+            60.875,
+            89.0,
+            150.75
+        ],
+        "score": 0.90674
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000125_RGHS_jpg.rf.9e6f8c6fa4c19d245a9c689e04b83f30",
+        "category_id": 1,
+        "bbox": [
+            250.5,
+            98.5,
+            66.5,
+            101.0
+        ],
+        "score": 0.16943
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000125_RGHS_jpg.rf.9e6f8c6fa4c19d245a9c689e04b83f30",
+        "category_id": 1,
+        "bbox": [
+            583.5,
+            213.5,
+            56.5,
+            64.5
+        ],
+        "score": 0.00148
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000124_RGHS_jpg.rf.b0ffbe50c45f54db154ee593ab34d93f",
+        "category_id": 1,
+        "bbox": [
+            553.0,
+            69.5,
+            86.0,
+            142.5
+        ],
+        "score": 0.90674
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000124_RGHS_jpg.rf.b0ffbe50c45f54db154ee593ab34d93f",
+        "category_id": 1,
+        "bbox": [
+            251.5,
+            103.625,
+            70.0,
+            88.5
+        ],
+        "score": 0.83008
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000124_RGHS_jpg.rf.b0ffbe50c45f54db154ee593ab34d93f",
+        "category_id": 1,
+        "bbox": [
+            586.0,
+            214.25,
+            54.0,
+            64.5
+        ],
+        "score": 0.00187
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000120_RGHS_jpg.rf.38fbdb8fdd69327812d573af8f1d9fde",
+        "category_id": 1,
+        "bbox": [
+            570.0,
+            71.875,
+            70.0,
+            142.25
+        ],
+        "score": 0.8916
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000120_RGHS_jpg.rf.38fbdb8fdd69327812d573af8f1d9fde",
+        "category_id": 1,
+        "bbox": [
+            263.5,
+            100.688,
+            55.0,
+            91.562
+        ],
+        "score": 0.87305
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000120_RGHS_jpg.rf.38fbdb8fdd69327812d573af8f1d9fde",
+        "category_id": 1,
+        "bbox": [
+            261.0,
+            44.25,
+            34.0,
+            84.375
+        ],
+        "score": 0.09137
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000139_RGHS_jpg.rf.c9ed8cda6c6fc65e6bfee6b24cc6d535",
+        "category_id": 1,
+        "bbox": [
+            504.0,
+            74.5,
+            86.0,
+            140.0
+        ],
+        "score": 0.88818
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000139_RGHS_jpg.rf.c9ed8cda6c6fc65e6bfee6b24cc6d535",
+        "category_id": 2,
+        "bbox": [
+            493.0,
+            627.5,
+            33.0,
+            12.5
+        ],
+        "score": 0.00718
+    },
+    {
+        "image_id": "7117_Caranx_sexfasciatus_juvenile_f000139_RGHS_jpg.rf.c9ed8cda6c6fc65e6bfee6b24cc6d535",
+        "category_id": 1,
+        "bbox": [
+            561.0,
+            183.75,
+            72.0,
+            68.5
+        ],
+        "score": 0.0015
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000026_RGHS_jpg.rf.ae8a853b2974a0ac0a6b419e7bc38cf4",
+        "category_id": 0,
+        "bbox": [
+            466.0,
+            353.0,
+            150.0,
+            157.0
+        ],
+        "score": 0.93115
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000027_RGHS_jpg.rf.1adfc8801698e31b50db3df4026154bc",
+        "category_id": 0,
+        "bbox": [
+            466.0,
+            352.5,
+            150.0,
+            157.5
+        ],
+        "score": 0.92969
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000030_RGHS_jpg.rf.2cd7c9a18521fb55e7fb3f57ff7acb2c",
+        "category_id": 0,
+        "bbox": [
+            469.75,
+            353.0,
+            142.25,
+            157.0
+        ],
+        "score": 0.93701
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000140_RGHS_jpg.rf.f2417457140a4870f10744cb9d0f7c76",
+        "category_id": 1,
+        "bbox": [
+            0.75,
+            257.5,
+            207.25,
+            214.0
+        ],
+        "score": 0.94385
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000140_RGHS_jpg.rf.f2417457140a4870f10744cb9d0f7c76",
+        "category_id": 0,
+        "bbox": [
+            188.25,
+            270.75,
+            117.5,
+            110.5
+        ],
+        "score": 0.90771
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000140_RGHS_jpg.rf.f2417457140a4870f10744cb9d0f7c76",
+        "category_id": 1,
+        "bbox": [
+            90.188,
+            256.5,
+            121.562,
+            112.0
+        ],
+        "score": 0.00332
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000140_RGHS_jpg.rf.f2417457140a4870f10744cb9d0f7c76",
+        "category_id": 4,
+        "bbox": [
+            70.5,
+            63.25,
+            58.75,
+            100.75
+        ],
+        "score": 0.0014
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000138_RGHS_jpg.rf.576d26221422f8a0ad9a79197dbf3cdb",
+        "category_id": 1,
+        "bbox": [
+            0.125,
+            258.0,
+            227.75,
+            208.0
+        ],
+        "score": 0.9375
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000138_RGHS_jpg.rf.576d26221422f8a0ad9a79197dbf3cdb",
+        "category_id": 0,
+        "bbox": [
+            203.125,
+            265.75,
+            103.875,
+            114.5
+        ],
+        "score": 0.87939
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000138_RGHS_jpg.rf.576d26221422f8a0ad9a79197dbf3cdb",
+        "category_id": 0,
+        "bbox": [
+            204.375,
+            281.0,
+            99.125,
+            51.0
+        ],
+        "score": 0.00391
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000138_RGHS_jpg.rf.576d26221422f8a0ad9a79197dbf3cdb",
+        "category_id": 1,
+        "bbox": [
+            94.25,
+            256.5,
+            130.25,
+            112.0
+        ],
+        "score": 0.00256
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000132_RGHS_jpg.rf.2d2161c1ce28f631e478979a4c305c94",
+        "category_id": 1,
+        "bbox": [
+            43.438,
+            262.0,
+            237.562,
+            188.5
+        ],
+        "score": 0.93945
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000132_RGHS_jpg.rf.2d2161c1ce28f631e478979a4c305c94",
+        "category_id": 0,
+        "bbox": [
+            264.5,
+            267.0,
+            43.0,
+            127.0
+        ],
+        "score": 0.00636
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000132_RGHS_jpg.rf.2d2161c1ce28f631e478979a4c305c94",
+        "category_id": 0,
+        "bbox": [
+            203.75,
+            278.75,
+            68.0,
+            72.5
+        ],
+        "score": 0.00634
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000132_RGHS_jpg.rf.2d2161c1ce28f631e478979a4c305c94",
+        "category_id": 1,
+        "bbox": [
+            192.25,
+            266.0,
+            81.5,
+            123.0
+        ],
+        "score": 0.00465
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000132_RGHS_jpg.rf.2d2161c1ce28f631e478979a4c305c94",
+        "category_id": 1,
+        "bbox": [
+            172.0,
+            265.0,
+            103.0,
+            139.5
+        ],
+        "score": 0.00143
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 1,
+        "bbox": [
+            93.312,
+            258.5,
+            234.438,
+            184.5
+        ],
+        "score": 0.93018
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 0,
+        "bbox": [
+            221.875,
+            286.25,
+            102.125,
+            76.5
+        ],
+        "score": 0.10339
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 0,
+        "bbox": [
+            221.75,
+            284.5,
+            95.5,
+            59.5
+        ],
+        "score": 0.06952
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 0,
+        "bbox": [
+            220.875,
+            279.0,
+            80.125,
+            57.0
+        ],
+        "score": 0.01549
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 1,
+        "bbox": [
+            223.0,
+            267.5,
+            104.5,
+            109.0
+        ],
+        "score": 0.0068
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 4,
+        "bbox": [
+            66.25,
+            65.125,
+            65.25,
+            70.5
+        ],
+        "score": 0.00564
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 0,
+        "bbox": [
+            223.0,
+            267.5,
+            104.5,
+            109.0
+        ],
+        "score": 0.00562
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000127_RGHS_jpg.rf.941a6776cfd644cf8cd4c47d9665b799",
+        "category_id": 0,
+        "bbox": [
+            223.5,
+            276.5,
+            79.5,
+            93.0
+        ],
+        "score": 0.0053
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000123_RGHS_jpg.rf.7e08ca852350556766874436076638d1",
+        "category_id": 1,
+        "bbox": [
+            124.5,
+            254.0,
+            234.5,
+            190.0
+        ],
+        "score": 0.92773
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000109_RGHS_jpg.rf.e71cccb027fe8bb87ffff330025800c4",
+        "category_id": 0,
+        "bbox": [
+            0.875,
+            149.625,
+            172.75,
+            245.875
+        ],
+        "score": 0.9502
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000109_RGHS_jpg.rf.e71cccb027fe8bb87ffff330025800c4",
+        "category_id": 1,
+        "bbox": [
+            238.25,
+            231.0,
+            224.0,
+            194.0
+        ],
+        "score": 0.9375
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000109_RGHS_jpg.rf.e71cccb027fe8bb87ffff330025800c4",
+        "category_id": 0,
+        "bbox": [
+            258.0,
+            252.5,
+            81.0,
+            77.0
+        ],
+        "score": 0.52832
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000109_RGHS_jpg.rf.e71cccb027fe8bb87ffff330025800c4",
+        "category_id": 0,
+        "bbox": [
+            255.5,
+            279.0,
+            68.0,
+            49.0
+        ],
+        "score": 0.00239
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000109_RGHS_jpg.rf.e71cccb027fe8bb87ffff330025800c4",
+        "category_id": 1,
+        "bbox": [
+            254.0,
+            248.5,
+            86.0,
+            84.0
+        ],
+        "score": 0.00157
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000106_RGHS_jpg.rf.e4e24bbff97cd13e851d7399fa24cbf6",
+        "category_id": 0,
+        "bbox": [
+            0.875,
+            143.875,
+            194.625,
+            248.125
+        ],
+        "score": 0.95166
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000106_RGHS_jpg.rf.e4e24bbff97cd13e851d7399fa24cbf6",
+        "category_id": 1,
+        "bbox": [
+            258.0,
+            231.5,
+            234.0,
+            187.5
+        ],
+        "score": 0.93262
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000106_RGHS_jpg.rf.e4e24bbff97cd13e851d7399fa24cbf6",
+        "category_id": 0,
+        "bbox": [
+            268.0,
+            242.25,
+            82.5,
+            96.0
+        ],
+        "score": 0.43872
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000101_RGHS_jpg.rf.19600af3a2f0ceba14db98fcbbaad8a7",
+        "category_id": 0,
+        "bbox": [
+            0.0,
+            126.5,
+            243.25,
+            266.0
+        ],
+        "score": 0.95117
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000101_RGHS_jpg.rf.19600af3a2f0ceba14db98fcbbaad8a7",
+        "category_id": 1,
+        "bbox": [
+            292.5,
+            205.5,
+            220.0,
+            205.5
+        ],
+        "score": 0.94971
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000101_RGHS_jpg.rf.19600af3a2f0ceba14db98fcbbaad8a7",
+        "category_id": 0,
+        "bbox": [
+            291.5,
+            231.0,
+            67.0,
+            99.5
+        ],
+        "score": 0.1394
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000101_RGHS_jpg.rf.19600af3a2f0ceba14db98fcbbaad8a7",
+        "category_id": 0,
+        "bbox": [
+            297.5,
+            233.25,
+            61.0,
+            76.0
+        ],
+        "score": 0.00136
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000093_RGHS_jpg.rf.4c48b3986b10c4ee53c4d43512a8ec57",
+        "category_id": 0,
+        "bbox": [
+            49.75,
+            150.0,
+            214.5,
+            229.0
+        ],
+        "score": 0.95166
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000093_RGHS_jpg.rf.4c48b3986b10c4ee53c4d43512a8ec57",
+        "category_id": 1,
+        "bbox": [
+            348.5,
+            179.0,
+            220.0,
+            214.5
+        ],
+        "score": 0.9375
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000093_RGHS_jpg.rf.4c48b3986b10c4ee53c4d43512a8ec57",
+        "category_id": 0,
+        "bbox": [
+            291.5,
+            215.875,
+            65.0,
+            124.125
+        ],
+        "score": 0.87451
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000093_RGHS_jpg.rf.4c48b3986b10c4ee53c4d43512a8ec57",
+        "category_id": 1,
+        "bbox": [
+            354.0,
+            26.75,
+            168.0,
+            131.125
+        ],
+        "score": 0.00539
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000086_RGHS_jpg.rf.705a9c52aac5b045bfc06b992f2f5ea5",
+        "category_id": 1,
+        "bbox": [
+            376.0,
+            143.0,
+            253.0,
+            226.0
+        ],
+        "score": 0.94922
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000086_RGHS_jpg.rf.705a9c52aac5b045bfc06b992f2f5ea5",
+        "category_id": 0,
+        "bbox": [
+            109.25,
+            150.875,
+            182.75,
+            216.125
+        ],
+        "score": 0.94873
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000086_RGHS_jpg.rf.705a9c52aac5b045bfc06b992f2f5ea5",
+        "category_id": 0,
+        "bbox": [
+            295.25,
+            178.0,
+            59.0,
+            166.0
+        ],
+        "score": 0.86084
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000082_RGHS_jpg.rf.ef92ce4091f7e141e1190d70736ca9cf",
+        "category_id": 1,
+        "bbox": [
+            401.0,
+            117.5,
+            239.0,
+            232.75
+        ],
+        "score": 0.94678
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000082_RGHS_jpg.rf.ef92ce4091f7e141e1190d70736ca9cf",
+        "category_id": 0,
+        "bbox": [
+            144.5,
+            154.0,
+            169.25,
+            209.5
+        ],
+        "score": 0.92529
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000082_RGHS_jpg.rf.ef92ce4091f7e141e1190d70736ca9cf",
+        "category_id": 0,
+        "bbox": [
+            295.0,
+            143.875,
+            80.0,
+            196.125
+        ],
+        "score": 0.89893
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000081_RGHS_jpg.rf.8e478b004cb12bd85ed9016fa3c1581a",
+        "category_id": 1,
+        "bbox": [
+            407.0,
+            110.312,
+            233.0,
+            233.938
+        ],
+        "score": 0.94873
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000081_RGHS_jpg.rf.8e478b004cb12bd85ed9016fa3c1581a",
+        "category_id": 0,
+        "bbox": [
+            151.75,
+            156.0,
+            167.75,
+            208.0
+        ],
+        "score": 0.91797
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000081_RGHS_jpg.rf.8e478b004cb12bd85ed9016fa3c1581a",
+        "category_id": 0,
+        "bbox": [
+            296.25,
+            137.5,
+            90.5,
+            196.75
+        ],
+        "score": 0.89502
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000073_RGHS_jpg.rf.81cd90d7edfdce471b5abb08b8e5e1cd",
+        "category_id": 1,
+        "bbox": [
+            459.75,
+            49.0,
+            180.25,
+            256.0
+        ],
+        "score": 0.9541
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000073_RGHS_jpg.rf.81cd90d7edfdce471b5abb08b8e5e1cd",
+        "category_id": 0,
+        "bbox": [
+            197.0,
+            174.0,
+            186.0,
+            195.0
+        ],
+        "score": 0.93164
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000073_RGHS_jpg.rf.81cd90d7edfdce471b5abb08b8e5e1cd",
+        "category_id": 0,
+        "bbox": [
+            301.25,
+            76.188,
+            141.0,
+            207.062
+        ],
+        "score": 0.92529
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000073_RGHS_jpg.rf.81cd90d7edfdce471b5abb08b8e5e1cd",
+        "category_id": 0,
+        "bbox": [
+            462.5,
+            49.5,
+            177.5,
+            257.5
+        ],
+        "score": 0.00164
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000071_RGHS_jpg.rf.9ab83af30b48ed1e63eb04d5a1f1de00",
+        "category_id": 1,
+        "bbox": [
+            472.0,
+            33.0,
+            168.0,
+            262.5
+        ],
+        "score": 0.9541
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000071_RGHS_jpg.rf.9ab83af30b48ed1e63eb04d5a1f1de00",
+        "category_id": 0,
+        "bbox": [
+            203.75,
+            175.25,
+            185.5,
+            196.5
+        ],
+        "score": 0.94727
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000071_RGHS_jpg.rf.9ab83af30b48ed1e63eb04d5a1f1de00",
+        "category_id": 0,
+        "bbox": [
+            309.5,
+            60.75,
+            142.0,
+            214.75
+        ],
+        "score": 0.91162
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000071_RGHS_jpg.rf.9ab83af30b48ed1e63eb04d5a1f1de00",
+        "category_id": 0,
+        "bbox": [
+            471.75,
+            33.5,
+            168.25,
+            264.0
+        ],
+        "score": 0.00137
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000066_RGHS_jpg.rf.91c4fe797de86401e530113195f9f38e",
+        "category_id": 0,
+        "bbox": [
+            224.0,
+            177.375,
+            200.5,
+            185.125
+        ],
+        "score": 0.93799
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000066_RGHS_jpg.rf.91c4fe797de86401e530113195f9f38e",
+        "category_id": 1,
+        "bbox": [
+            502.0,
+            21.0,
+            138.0,
+            247.5
+        ],
+        "score": 0.93408
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000066_RGHS_jpg.rf.91c4fe797de86401e530113195f9f38e",
+        "category_id": 0,
+        "bbox": [
+            334.0,
+            25.5,
+            134.5,
+            221.5
+        ],
+        "score": 0.9292
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000066_RGHS_jpg.rf.91c4fe797de86401e530113195f9f38e",
+        "category_id": 0,
+        "bbox": [
+            502.0,
+            21.5,
+            138.0,
+            247.0
+        ],
+        "score": 0.00196
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000064_RGHS_jpg.rf.6808e12ddb87ff798efed255eeac2755",
+        "category_id": 0,
+        "bbox": [
+            233.625,
+            174.0,
+            201.875,
+            184.5
+        ],
+        "score": 0.93848
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000064_RGHS_jpg.rf.6808e12ddb87ff798efed255eeac2755",
+        "category_id": 1,
+        "bbox": [
+            515.5,
+            37.688,
+            124.5,
+            220.562
+        ],
+        "score": 0.92285
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000064_RGHS_jpg.rf.6808e12ddb87ff798efed255eeac2755",
+        "category_id": 0,
+        "bbox": [
+            342.5,
+            10.562,
+            128.0,
+            222.938
+        ],
+        "score": 0.92236
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000064_RGHS_jpg.rf.6808e12ddb87ff798efed255eeac2755",
+        "category_id": 0,
+        "bbox": [
+            514.5,
+            38.062,
+            125.5,
+            219.438
+        ],
+        "score": 0.00112
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000063_RGHS_jpg.rf.fdaa5d39d89c1306f2d3e0596cbab9fe",
+        "category_id": 0,
+        "bbox": [
+            239.875,
+            175.125,
+            203.125,
+            183.875
+        ],
+        "score": 0.93652
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000063_RGHS_jpg.rf.fdaa5d39d89c1306f2d3e0596cbab9fe",
+        "category_id": 0,
+        "bbox": [
+            349.25,
+            0.062,
+            129.0,
+            224.938
+        ],
+        "score": 0.92383
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000063_RGHS_jpg.rf.fdaa5d39d89c1306f2d3e0596cbab9fe",
+        "category_id": 1,
+        "bbox": [
+            523.0,
+            31.5,
+            117.0,
+            221.25
+        ],
+        "score": 0.91309
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000063_RGHS_jpg.rf.fdaa5d39d89c1306f2d3e0596cbab9fe",
+        "category_id": 0,
+        "bbox": [
+            523.0,
+            24.062,
+            117.0,
+            227.938
+        ],
+        "score": 0.00232
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000049_RGHS_jpg.rf.affd6dd3027105c03f27a064cd3d76b2",
+        "category_id": 0,
+        "bbox": [
+            323.0,
+            146.75,
+            220.0,
+            193.0
+        ],
+        "score": 0.95459
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000049_RGHS_jpg.rf.affd6dd3027105c03f27a064cd3d76b2",
+        "category_id": 0,
+        "bbox": [
+            416.0,
+            0.0,
+            217.0,
+            169.0
+        ],
+        "score": 0.94824
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000044_RGHS_jpg.rf.b0b3941790aaf87c12d78ca48c052c1c",
+        "category_id": 0,
+        "bbox": [
+            351.5,
+            138.0,
+            233.0,
+            198.5
+        ],
+        "score": 0.95312
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000044_RGHS_jpg.rf.b0b3941790aaf87c12d78ca48c052c1c",
+        "category_id": 0,
+        "bbox": [
+            440.25,
+            0.375,
+            199.75,
+            154.25
+        ],
+        "score": 0.94287
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000143_RGHS_jpg.rf.cf83bcefdd6c75d54201a6f488e75f9e",
+        "category_id": 1,
+        "bbox": [
+            1.0,
+            267.5,
+            171.5,
+            201.5
+        ],
+        "score": 0.93555
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000143_RGHS_jpg.rf.cf83bcefdd6c75d54201a6f488e75f9e",
+        "category_id": 0,
+        "bbox": [
+            187.25,
+            277.5,
+            108.0,
+            105.0
+        ],
+        "score": 0.91699
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000143_RGHS_jpg.rf.cf83bcefdd6c75d54201a6f488e75f9e",
+        "category_id": 1,
+        "bbox": [
+            59.125,
+            270.25,
+            108.5,
+            106.5
+        ],
+        "score": 0.00654
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000145_RGHS_jpg.rf.9b60353cdc3b212bbb409d9bfc0a9aa9",
+        "category_id": 1,
+        "bbox": [
+            0.0,
+            281.0,
+            151.0,
+            188.0
+        ],
+        "score": 0.92529
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000145_RGHS_jpg.rf.9b60353cdc3b212bbb409d9bfc0a9aa9",
+        "category_id": 0,
+        "bbox": [
+            186.75,
+            278.5,
+            104.25,
+            109.5
+        ],
+        "score": 0.91748
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000149_RGHS_jpg.rf.fd8197dd53917611d9ae26325afa4161",
+        "category_id": 0,
+        "bbox": [
+            183.25,
+            279.0,
+            96.0,
+            114.0
+        ],
+        "score": 0.91748
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000149_RGHS_jpg.rf.fd8197dd53917611d9ae26325afa4161",
+        "category_id": 1,
+        "bbox": [
+            1.0,
+            270.5,
+            107.625,
+            209.0
+        ],
+        "score": 0.86084
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000153_RGHS_jpg.rf.19ec2224bd2f14be951d691aca888416",
+        "category_id": 0,
+        "bbox": [
+            181.75,
+            275.0,
+            88.0,
+            111.0
+        ],
+        "score": 0.8916
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000073_RGHS_jpg.rf.4381b594a949105b6ab231b5160da48d",
+        "category_id": 0,
+        "bbox": [
+            107.0,
+            174.25,
+            90.75,
+            205.0
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000072_RGHS_jpg.rf.67277d43bd3cb3978095b45c66577e81",
+        "category_id": 0,
+        "bbox": [
+            104.062,
+            176.25,
+            89.938,
+            203.5
+        ],
+        "score": 0.90137
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000069_RGHS_jpg.rf.77d6d5f61d6a2a6eed27cab9bc9f9981",
+        "category_id": 0,
+        "bbox": [
+            104.0,
+            173.0,
+            88.5,
+            198.0
+        ],
+        "score": 0.92773
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000063_RGHS_jpg.rf.5bd1957f409a91424336f4869631ff82",
+        "category_id": 0,
+        "bbox": [
+            112.75,
+            165.0,
+            90.0,
+            201.0
+        ],
+        "score": 0.91895
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000062_RGHS_jpg.rf.5b42b250b47ed1fb810f0867c32205f8",
+        "category_id": 0,
+        "bbox": [
+            113.75,
+            164.625,
+            81.5,
+            199.875
+        ],
+        "score": 0.9043
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000059_RGHS_jpg.rf.80185927560cbe79f29fa690427706ca",
+        "category_id": 0,
+        "bbox": [
+            121.0,
+            164.25,
+            90.0,
+            202.0
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000059_RGHS_jpg.rf.80185927560cbe79f29fa690427706ca",
+        "category_id": 2,
+        "bbox": [
+            445.5,
+            553.5,
+            20.5,
+            53.0
+        ],
+        "score": 0.00358
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000054_RGHS_jpg.rf.13df1629ee35fa9ddeb26ce87d8a89af",
+        "category_id": 0,
+        "bbox": [
+            118.125,
+            163.375,
+            80.75,
+            200.125
+        ],
+        "score": 0.90381
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000044_RGHS_jpg.rf.6c72cdf0cffa426c42b16f1497feefe9",
+        "category_id": 0,
+        "bbox": [
+            117.25,
+            173.25,
+            110.0,
+            186.0
+        ],
+        "score": 0.91162
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000043_RGHS_jpg.rf.cc647774fc6c9a1c77385948ca29b2ba",
+        "category_id": 0,
+        "bbox": [
+            116.25,
+            173.125,
+            107.5,
+            189.875
+        ],
+        "score": 0.91699
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000043_RGHS_jpg.rf.cc647774fc6c9a1c77385948ca29b2ba",
+        "category_id": 1,
+        "bbox": [
+            45.0,
+            93.438,
+            44.375,
+            62.562
+        ],
+        "score": 0.00114
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000037_RGHS_jpg.rf.41005f1b56605d68afb0840375e42e4a",
+        "category_id": 0,
+        "bbox": [
+            485.5,
+            0.5,
+            154.5,
+            152.75
+        ],
+        "score": 0.94824
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000037_RGHS_jpg.rf.41005f1b56605d68afb0840375e42e4a",
+        "category_id": 0,
+        "bbox": [
+            402.75,
+            122.0,
+            237.25,
+            205.5
+        ],
+        "score": 0.94189
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000031_RGHS_jpg.rf.a82561e81673ff44268db088696f3115",
+        "category_id": 0,
+        "bbox": [
+            112.25,
+            192.375,
+            80.0,
+            187.125
+        ],
+        "score": 0.92188
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000027_RGHS_jpg.rf.ff79505a0baa2956cd38a0586b56980d",
+        "category_id": 0,
+        "bbox": [
+            120.5,
+            197.0,
+            67.0,
+            183.0
+        ],
+        "score": 0.90088
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000199_RGHS_jpg.rf.8d0b0880620edd8522a09e8a79170d90",
+        "category_id": 0,
+        "bbox": [
+            125.25,
+            198.375,
+            58.5,
+            182.125
+        ],
+        "score": 0.89795
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000196_RGHS_jpg.rf.7e52a4e130b33e40cf07f265fccb1c6a",
+        "category_id": 0,
+        "bbox": [
+            128.125,
+            203.0,
+            59.5,
+            172.0
+        ],
+        "score": 0.88379
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000193_RGHS_jpg.rf.03e8d11a83aaa78c329e737881bd50b3",
+        "category_id": 0,
+        "bbox": [
+            131.0,
+            203.875,
+            60.5,
+            161.125
+        ],
+        "score": 0.90723
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000189_RGHS_jpg.rf.75f1cad49d6a5e121deb966f90c9e8b9",
+        "category_id": 0,
+        "bbox": [
+            142.75,
+            206.375,
+            56.0,
+            153.125
+        ],
+        "score": 0.88428
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000177_RGHS_jpg.rf.2e540ed29e33513730e51e85805c6624",
+        "category_id": 0,
+        "bbox": [
+            161.875,
+            232.0,
+            54.25,
+            127.0
+        ],
+        "score": 0.90625
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000175_RGHS_jpg.rf.eb8cf07a04f2cdc208af36416637b41f",
+        "category_id": 0,
+        "bbox": [
+            165.5,
+            235.5,
+            52.0,
+            128.0
+        ],
+        "score": 0.90137
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000164_RGHS_jpg.rf.8feb6fe0b73058dcac6538af44957ed6",
+        "category_id": 0,
+        "bbox": [
+            178.75,
+            264.0,
+            38.25,
+            117.0
+        ],
+        "score": 0.85352
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000159_RGHS_jpg.rf.8d09daef1c6010c522174b550aa792d8",
+        "category_id": 0,
+        "bbox": [
+            181.25,
+            274.0,
+            58.5,
+            102.0
+        ],
+        "score": 0.85547
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000029_RGHS_jpg.rf.a8ff7e78a0b695ceaecec20ab148045d",
+        "category_id": 0,
+        "bbox": [
+            116.625,
+            194.125,
+            72.5,
+            185.875
+        ],
+        "score": 0.90771
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000029_RGHS_jpg.rf.a8ff7e78a0b695ceaecec20ab148045d",
+        "category_id": 0,
+        "bbox": [
+            482.0,
+            185.5,
+            55.0,
+            98.0
+        ],
+        "score": 0.00231
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000034_RGHS_jpg.rf.59d4170a988b058824c7c90cb57bdce1",
+        "category_id": 0,
+        "bbox": [
+            520.0,
+            0.375,
+            120.0,
+            161.75
+        ],
+        "score": 0.94629
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000034_RGHS_jpg.rf.59d4170a988b058824c7c90cb57bdce1",
+        "category_id": 0,
+        "bbox": [
+            419.25,
+            134.5,
+            220.75,
+            189.25
+        ],
+        "score": 0.93994
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000030_RGHS_jpg.rf.b203ecdb1ef64c30dd49c5f50447833e",
+        "category_id": 0,
+        "bbox": [
+            449.75,
+            118.0,
+            190.25,
+            203.0
+        ],
+        "score": 0.94482
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000030_RGHS_jpg.rf.b203ecdb1ef64c30dd49c5f50447833e",
+        "category_id": 0,
+        "bbox": [
+            545.0,
+            1.125,
+            94.0,
+            180.125
+        ],
+        "score": 0.93164
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000029_RGHS_jpg.rf.e942667517f62afc7024269d4ddc9f2a",
+        "category_id": 0,
+        "bbox": [
+            456.5,
+            118.25,
+            183.0,
+            199.5
+        ],
+        "score": 0.94531
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000029_RGHS_jpg.rf.e942667517f62afc7024269d4ddc9f2a",
+        "category_id": 0,
+        "bbox": [
+            547.0,
+            1.0,
+            92.0,
+            183.75
+        ],
+        "score": 0.93213
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000128_RGHS_jpg.rf.7fc94f4bb1d87c71a5d834fda8edebe9",
+        "category_id": 0,
+        "bbox": [
+            106.25,
+            400.5,
+            141.0,
+            122.0
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000128_RGHS_jpg.rf.7fc94f4bb1d87c71a5d834fda8edebe9",
+        "category_id": 0,
+        "bbox": [
+            300.0,
+            436.5,
+            58.0,
+            59.0
+        ],
+        "score": 0.00141
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000127_RGHS_jpg.rf.8f76c4ab7df00d388bb882643b7dd1b4",
+        "category_id": 0,
+        "bbox": [
+            112.5,
+            399.0,
+            143.5,
+            121.0
+        ],
+        "score": 0.90576
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000127_RGHS_jpg.rf.8f76c4ab7df00d388bb882643b7dd1b4",
+        "category_id": 0,
+        "bbox": [
+            287.5,
+            433.5,
+            71.0,
+            63.5
+        ],
+        "score": 0.001
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000123_RGHS_jpg.rf.dc8697e7ea458578fab999e117accd4f",
+        "category_id": 0,
+        "bbox": [
+            133.5,
+            394.5,
+            160.5,
+            120.0
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000115_RGHS_jpg.rf.62c551eae4c884a7afc0d69016029c29",
+        "category_id": 0,
+        "bbox": [
+            175.0,
+            382.5,
+            147.0,
+            116.0
+        ],
+        "score": 0.88672
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000115_RGHS_jpg.rf.62c551eae4c884a7afc0d69016029c29",
+        "category_id": 0,
+        "bbox": [
+            274.5,
+            429.5,
+            83.5,
+            67.5
+        ],
+        "score": 0.00391
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000115_RGHS_jpg.rf.62c551eae4c884a7afc0d69016029c29",
+        "category_id": 0,
+        "bbox": [
+            298.5,
+            426.0,
+            60.0,
+            71.0
+        ],
+        "score": 0.00107
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000113_RGHS_jpg.rf.cefdc96dcc7708efd1354d9c867fcd14",
+        "category_id": 0,
+        "bbox": [
+            192.75,
+            375.0,
+            143.0,
+            120.0
+        ],
+        "score": 0.89648
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000113_RGHS_jpg.rf.cefdc96dcc7708efd1354d9c867fcd14",
+        "category_id": 0,
+        "bbox": [
+            252.5,
+            379.5,
+            78.0,
+            66.0
+        ],
+        "score": 0.00106
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000112_RGHS_jpg.rf.4277be46238a93020834980193bc26ca",
+        "category_id": 0,
+        "bbox": [
+            199.625,
+            372.5,
+            147.875,
+            121.5
+        ],
+        "score": 0.9165
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000109_RGHS_jpg.rf.506c55ad0d760284dc97050c25660427",
+        "category_id": 0,
+        "bbox": [
+            217.375,
+            374.75,
+            144.125,
+            118.5
+        ],
+        "score": 0.93262
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000106_RGHS_jpg.rf.0f31269b195d98dcd6f2d99e3a15ec2a",
+        "category_id": 0,
+        "bbox": [
+            234.25,
+            366.0,
+            147.5,
+            130.5
+        ],
+        "score": 0.91016
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000104_RGHS_jpg.rf.6a3eab29e80930639ebf132297bfaf0c",
+        "category_id": 0,
+        "bbox": [
+            246.0,
+            360.0,
+            148.0,
+            135.0
+        ],
+        "score": 0.9209
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000005_RGHS_jpg.rf.a2ced51c3295e4cc3f709a340f3a9af4",
+        "category_id": 0,
+        "bbox": [
+            32.594,
+            328.0,
+            78.031,
+            119.0
+        ],
+        "score": 0.92188
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000102_RGHS_jpg.rf.8cd505faf21ee0532574dcb2ce635cfc",
+        "category_id": 0,
+        "bbox": [
+            256.25,
+            358.5,
+            154.5,
+            136.5
+        ],
+        "score": 0.91016
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000087_RGHS_jpg.rf.5aee9c061a64c57b858e2af8ca21f3ab",
+        "category_id": 0,
+        "bbox": [
+            324.5,
+            357.0,
+            142.0,
+            141.0
+        ],
+        "score": 0.94678
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000083_RGHS_jpg.rf.d09f040b47d32f1bdc2747666d2b30b5",
+        "category_id": 0,
+        "bbox": [
+            339.0,
+            358.0,
+            136.0,
+            141.0
+        ],
+        "score": 0.93604
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000078_RGHS_jpg.rf.8c907d777585469c8b8a1043a1c060a3",
+        "category_id": 0,
+        "bbox": [
+            353.0,
+            356.5,
+            149.0,
+            151.0
+        ],
+        "score": 0.93311
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000067_RGHS_jpg.rf.7c97d61ff3b447a30310e9ddfe34f6c9",
+        "category_id": 0,
+        "bbox": [
+            381.0,
+            349.0,
+            182.0,
+            167.5
+        ],
+        "score": 0.94287
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000066_RGHS_jpg.rf.fa42204013cb8573ba9d8181cb4dc273",
+        "category_id": 0,
+        "bbox": [
+            386.0,
+            347.5,
+            181.5,
+            175.5
+        ],
+        "score": 0.94922
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000066_RGHS_jpg.rf.fa42204013cb8573ba9d8181cb4dc273",
+        "category_id": 0,
+        "bbox": [
+            289.0,
+            432.0,
+            67.0,
+            64.0
+        ],
+        "score": 0.00162
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000054_RGHS_jpg.rf.39c56980ee80310fdd35615011aee322",
+        "category_id": 0,
+        "bbox": [
+            419.5,
+            330.5,
+            161.0,
+            182.0
+        ],
+        "score": 0.9502
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000053_RGHS_jpg.rf.50eac29cd7ab4dfd445617f914533577",
+        "category_id": 0,
+        "bbox": [
+            423.0,
+            327.5,
+            148.0,
+            187.5
+        ],
+        "score": 0.9502
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000047_RGHS_jpg.rf.3b9a8dbdc92f7879411f33acc4add1ba",
+        "category_id": 0,
+        "bbox": [
+            448.0,
+            325.5,
+            99.0,
+            191.0
+        ],
+        "score": 0.92529
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000044_RGHS_jpg.rf.d133304da7532179c7755955cb7c61e1",
+        "category_id": 0,
+        "bbox": [
+            465.0,
+            333.5,
+            108.0,
+            169.0
+        ],
+        "score": 0.92285
+    },
+    {
+        "image_id": "9852_Acanthopagrus_palmaris_f000092_RGHS_jpg.rf.459df346005790aa384d98ac6ab4934c",
+        "category_id": 0,
+        "bbox": [
+            309.0,
+            357.5,
+            141.0,
+            141.0
+        ],
+        "score": 0.93652
+    },
+    {
+        "image_id": "9866_acanthopagrus_palmaris_f000094_RGHS_jpg.rf.127c9b7f45f8e3c064283366ef37f6cb",
+        "category_id": 0,
+        "bbox": [
+            67.25,
+            227.0,
+            180.0,
+            191.0
+        ],
+        "score": 0.95166
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000012_RGHS_jpg.rf.9c054493e53ad1b0c44a28598d689c29",
+        "category_id": 0,
+        "bbox": [
+            49.5,
+            304.75,
+            71.25,
+            128.0
+        ],
+        "score": 0.92285
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000034_RGHS_jpg.rf.d363c8be764a9d6d32980164d0a7ee32",
+        "category_id": 0,
+        "bbox": [
+            95.125,
+            243.0,
+            50.25,
+            151.0
+        ],
+        "score": 0.85059
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000034_RGHS_jpg.rf.d363c8be764a9d6d32980164d0a7ee32",
+        "category_id": 0,
+        "bbox": [
+            100.375,
+            245.0,
+            36.0,
+            121.0
+        ],
+        "score": 0.00114
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000026_RGHS_jpg.rf.e41fa97c7f4a9943f18a74b51c159c8e",
+        "category_id": 0,
+        "bbox": [
+            482.25,
+            116.75,
+            157.75,
+            196.75
+        ],
+        "score": 0.94678
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000026_RGHS_jpg.rf.e41fa97c7f4a9943f18a74b51c159c8e",
+        "category_id": 0,
+        "bbox": [
+            559.0,
+            0.875,
+            81.0,
+            198.5
+        ],
+        "score": 0.92334
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000024_RGHS_jpg.rf.2ee702fbde8f227c26debb645f06ea4d",
+        "category_id": 0,
+        "bbox": [
+            497.0,
+            115.25,
+            143.0,
+            198.25
+        ],
+        "score": 0.94238
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000024_RGHS_jpg.rf.2ee702fbde8f227c26debb645f06ea4d",
+        "category_id": 0,
+        "bbox": [
+            559.0,
+            0.625,
+            81.0,
+            211.375
+        ],
+        "score": 0.89697
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000024_RGHS_jpg.rf.2ee702fbde8f227c26debb645f06ea4d",
+        "category_id": 0,
+        "bbox": [
+            501.0,
+            10.75,
+            139.0,
+            301.75
+        ],
+        "score": 0.27759
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000017_RGHS_jpg.rf.b3fddcdad0f6da15bc2725084f93c965",
+        "category_id": 0,
+        "bbox": [
+            548.5,
+            1.0,
+            91.5,
+            239.5
+        ],
+        "score": 0.91602
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000017_RGHS_jpg.rf.b3fddcdad0f6da15bc2725084f93c965",
+        "category_id": 0,
+        "bbox": [
+            558.5,
+            150.75,
+            81.0,
+            159.75
+        ],
+        "score": 0.87549
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000017_RGHS_jpg.rf.b3fddcdad0f6da15bc2725084f93c965",
+        "category_id": 0,
+        "bbox": [
+            593.0,
+            0.031,
+            47.0,
+            41.562
+        ],
+        "score": 0.00477
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000017_RGHS_jpg.rf.b3fddcdad0f6da15bc2725084f93c965",
+        "category_id": 0,
+        "bbox": [
+            600.0,
+            0.0,
+            40.0,
+            104.312
+        ],
+        "score": 0.00285
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000015_RGHS_jpg.rf.ee2ecbb28c1142ba87e3d03c7355c398",
+        "category_id": 0,
+        "bbox": [
+            537.0,
+            0.5,
+            103.0,
+            251.0
+        ],
+        "score": 0.87744
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000015_RGHS_jpg.rf.ee2ecbb28c1142ba87e3d03c7355c398",
+        "category_id": 0,
+        "bbox": [
+            576.5,
+            171.5,
+            63.0,
+            129.0
+        ],
+        "score": 0.63965
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000005_RGHS_jpg.rf.a581a4e067f671c1a620c155dcc677bd",
+        "category_id": 0,
+        "bbox": [
+            570.5,
+            35.312,
+            69.0,
+            245.438
+        ],
+        "score": 0.91064
+    },
+    {
+        "image_id": "9866_acanthopagrus_and_caranx_f000005_RGHS_jpg.rf.a581a4e067f671c1a620c155dcc677bd",
+        "category_id": 0,
+        "bbox": [
+            607.0,
+            163.25,
+            33.0,
+            112.25
+        ],
+        "score": 0.00154
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000118_RGHS_jpg.rf.c150d8cf2fbd36c07ad5239330af4222",
+        "category_id": 0,
+        "bbox": [
+            382.5,
+            134.875,
+            257.5,
+            280.125
+        ],
+        "score": 0.94678
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000115_RGHS_jpg.rf.8da5c5fc3e2de2fcba544e5447aea769",
+        "category_id": 0,
+        "bbox": [
+            349.0,
+            122.875,
+            277.0,
+            281.125
+        ],
+        "score": 0.95801
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000098_RGHS_jpg.rf.ef6df4084e6542be0268be5aae981996",
+        "category_id": 0,
+        "bbox": [
+            284.0,
+            129.75,
+            218.0,
+            249.0
+        ],
+        "score": 0.96045
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000091_RGHS_jpg.rf.206ebf5867b9fb2c435b2ea50c5e0391",
+        "category_id": 0,
+        "bbox": [
+            246.5,
+            147.0,
+            220.0,
+            233.0
+        ],
+        "score": 0.95166
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000022_RGHS_jpg.rf.39942db5e6e868169fc958c176915e87",
+        "category_id": 0,
+        "bbox": [
+            85.0,
+            274.0,
+            44.25,
+            121.0
+        ],
+        "score": 0.85352
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000089_RGHS_jpg.rf.8b5352b6803fe0fb35cd66200c71879e",
+        "category_id": 0,
+        "bbox": [
+            232.125,
+            145.875,
+            225.875,
+            234.125
+        ],
+        "score": 0.95215
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000076_RGHS_jpg.rf.0c8c253b6f61507b03707d3401e96609",
+        "category_id": 0,
+        "bbox": [
+            169.875,
+            169.75,
+            192.125,
+            210.5
+        ],
+        "score": 0.96191
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000075_RGHS_jpg.rf.9a9be24be306201ef6ae450d8720caef",
+        "category_id": 0,
+        "bbox": [
+            162.875,
+            171.75,
+            190.125,
+            208.0
+        ],
+        "score": 0.95801
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000056_RGHS_jpg.rf.379715ac36a502449f1d4e2d8e5fc499",
+        "category_id": 0,
+        "bbox": [
+            78.938,
+            195.0,
+            143.062,
+            184.0
+        ],
+        "score": 0.93604
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000050_RGHS_jpg.rf.5968c51bd103819c9ae70d3dbd22a357",
+        "category_id": 0,
+        "bbox": [
+            93.312,
+            198.25,
+            101.938,
+            192.0
+        ],
+        "score": 0.92432
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000049_RGHS_jpg.rf.9d41fae9e92ecff127081ae2d72296cc",
+        "category_id": 0,
+        "bbox": [
+            93.25,
+            198.5,
+            96.5,
+            191.5
+        ],
+        "score": 0.91943
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000046_RGHS_jpg.rf.2a411010c148048934c5c73ec7538003",
+        "category_id": 0,
+        "bbox": [
+            82.5,
+            204.125,
+            91.25,
+            186.875
+        ],
+        "score": 0.90088
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000037_RGHS_jpg.rf.5ec4840a6db9d923700da6e985ecde7a",
+        "category_id": 0,
+        "bbox": [
+            96.75,
+            225.25,
+            54.0,
+            166.5
+        ],
+        "score": 0.86377
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000036_RGHS_jpg.rf.ef0351744504e170e0e4c4657dbf804a",
+        "category_id": 0,
+        "bbox": [
+            94.75,
+            229.25,
+            54.75,
+            163.0
+        ],
+        "score": 0.87354
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000035_RGHS_jpg.rf.496dd230a3afda9d01f7908b638ef8b2",
+        "category_id": 0,
+        "bbox": [
+            96.438,
+            231.5,
+            53.062,
+            163.0
+        ],
+        "score": 0.85156
+    },
+    {
+        "image_id": "9862_Acanthopagrus_palmaris_f000086_RGHS_jpg.rf.80d32a498cd5e9a736612c3b29fea7ff",
+        "category_id": 0,
+        "bbox": [
+            211.125,
+            145.625,
+            222.875,
+            229.875
+        ],
+        "score": 0.9502
+    },
+    {
+        "image_id": "9908_Epinephelus_f000180_RGHS_jpg.rf.fd0aef2727e2efba6dbcb89a7143e68b",
+        "category_id": 3,
+        "bbox": [
+            442.5,
+            187.125,
+            197.5,
+            158.875
+        ],
+        "score": 0.95264
+    }
+]
