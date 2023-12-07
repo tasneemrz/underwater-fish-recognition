@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['acanthopagrus palmaris', 'caranx', 'chaetodon vagabundus', 'epinephelus', 'gerres']
+
+roboflow:
+  workspace: underwater-fish
+  project: underwater-fish-detection-izi1l
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/underwater-fish/underwater-fish-detection-izi1l/dataset/6
