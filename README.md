@@ -46,3 +46,5 @@ model = YOLO('fish_detection_model.pt')
 # predict on image
 model.predict('image_file.jpg', save=True, conf=0.5)
 ```
+![image](https://github.com/noori03/underwater-fish-recognition/assets/156057742/fec0470f-573b-44d6-a43a-0c540dd8a2dd)
+Figure- Detection of caranx fish
