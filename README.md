@@ -14,6 +14,8 @@ DeepFish : https://alzayats.github.io/DeepFish/
     Create 'InputImages' and 'OutputImages' folders
     
    Then put raw images to 'InputImages' folder
+![image](https://github.com/noori03/underwater-fish-recognition/assets/156057742/a8546838-73fb-4b85-9427-a64822f4f0b6)
+Figure-Enhanced image after RGHS
 
 4. Run main.py;
 
@@ -44,3 +46,5 @@ model = YOLO('fish_detection_model.pt')
 # predict on image
 model.predict('image_file.jpg', save=True, conf=0.5)
 ```
+![image](https://github.com/noori03/underwater-fish-recognition/assets/156057742/fec0470f-573b-44d6-a43a-0c540dd8a2dd)
+Figure- Detection of caranx fish
