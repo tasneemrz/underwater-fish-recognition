@@ -14,6 +14,8 @@ DeepFish : https://alzayats.github.io/DeepFish/
     Create 'InputImages' and 'OutputImages' folders
     
    Then put raw images to 'InputImages' folder
+![image](https://github.com/noori03/underwater-fish-recognition/assets/156057742/a8546838-73fb-4b85-9427-a64822f4f0b6)
+Figure-Enhanced image after RGHS
 
 4. Run main.py;
 
